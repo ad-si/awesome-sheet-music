@@ -43,8 +43,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [noteflight](http://noteflight.com) (commercial) - Browser based music notation creator and music composition community.
 - [playgroundsessions](https://playgroundsessions.com) (commercial) - Learn how to play the piano with interactive lessons featuring your favorite songs.
 - [soundslice](http://soundslice.com) (commercial) - Learn music better with interactive notation and tabs.
-- [synthesiagame.com](http://synthesiagame.com/) (commercial) - Learn how to play the piano using falling notes.
-
+- [synthesiagame](http://synthesiagame.com/) (commercial) - Learn how to play the piano using falling notes.
+- [tunefl](http://tunefl.com) - Freely generate and share mini lilypond-scores with ease.
 
 ## Resources
 

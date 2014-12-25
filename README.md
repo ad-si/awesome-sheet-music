@@ -23,9 +23,10 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [openbook](https://github.com/veltzer/openbook) - Open LilyPond real book for jazz musicians.
 
 
-## Libraries
+## Software Libraries
 
 - [alphatab](http://alphatab.net) - Cross platform music notation and guitar tablature rendering library.
+- [lilynode](https://github.com/adius/lilynode) - Node.js wrapper for lilypond.
 - [ly2video](https://github.com/aspiers/ly2video) - Generating videos from LilyPond projects.
 - [music21](https://github.com/cuthbertLab/music21) - Toolkit for computational musicology.
 - [musical.js](https://github.com/PencilCode/musical.js) - A sequencing WebAudio synthesizer that supports ABC notation.

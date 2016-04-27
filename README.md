@@ -5,7 +5,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## Music Notation Software
 
-- [finale](http://finalemusic.com/) (commercial) - Compose, arrange, notate, and print engraver-quality sheet music.
+- [capella](http://capella.de) - Create complete scores.
+- [finale](http://finalemusic.com/) (commercial) - Compose, arrange, notate and print engraver-quality sheet music.
 - [lilypond](http://lilypond.org/) - Program and file format for music engraving.
 - [musescore](http://musescore.org) - Create, play and print sheet music.
 - [opusmodus](http://opusmodus.com) (commercial) -  Software for music composition.
@@ -18,7 +19,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [imslp.org](http://imslp.org) - Sharing the world’s public domain music.
 - [Lilypond-Sheet-Music](https://github.com/cellist/Lilypond-Sheet-Music) - Cello music typeset with LilyPond.
 - [musescore](http://musescore.com/) -  Share your sheet music and comment on others.
-- [mutopia](http://mutopiaproject.org) - Sheet music editions of classical music for free download and 
+- [mutopia](http://mutopiaproject.org) - Sheet music editions of classical music for free download and
 	[github](https://github.com/chrissawer/The-Mutopia-Project) project.
 - [openbook](https://github.com/veltzer/openbook) - Open LilyPond real book for jazz musicians.
 

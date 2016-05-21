@@ -48,6 +48,10 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [soundslice](http://soundslice.com) (commercial) - Learn music better with interactive notation and tabs.
 - [synthesiagame](http://synthesiagame.com/) (commercial) - Learn how to play the piano using falling notes.
 - [tunefl](http://tunefl.com) - Freely generate and share mini lilypond-scores with ease.
+- [utab] - Synced Chords & Lyrics created by professional musicians.
+
+[utab]: https://utab.com
+
 
 ## Resources
 

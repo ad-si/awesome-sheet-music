@@ -27,6 +27,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 ## Software Libraries
 
 - [alphatab](http://alphatab.net) - Cross platform music notation and guitar tablature rendering library.
+- [ChorData](https://github.com/starenka/chordata) - Dummy chordbook for mandolin, ukulele and guitar.
 - [lilynode](https://github.com/adius/lilynode) - Node.js wrapper for lilypond.
 - [lilyware](https://github.com/adius/lilyware) - Node.js middleware for serving rendered lilypond files.
 - [ly2video](https://github.com/aspiers/ly2video) - Generating videos from LilyPond projects.

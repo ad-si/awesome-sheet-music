@@ -5,13 +5,13 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## Music Notation Software
 
-- [capella] - Create complete scores.
-- [finale] (commercial) - Compose, arrange, notate and print
+- [capella] \(commercial\) - Create complete scores.
+- [finale] \(commercial\) - Compose, arrange, notate and print
   engraver-quality sheet music.
 - [lilypond] - Program and file format for music engraving.
 - [musescore] - Create, play and print sheet music.
-- [opusmodus] (commercial) -  Software for music composition.
-- [sibelius] (commercial) - Create and share scores.
+- [opusmodus] \(commercial\) - Software for music composition.
+- [sibelius] \(commercial\) - Create and share scores.
 
 [capella]: http://capella.de
 [finale]: http://finalemusic.com
@@ -26,7 +26,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [flutetunes.com] - Free sheet music for the flute.
 - [imslp.org] - Sharing the world’s public domain music.
 - [Lilypond-Sheet-Music] - Cello music typeset with LilyPond.
-- [musescore] -  Share your sheet music and comment on others.
+- [musescore] - Share your sheet music and comment on others.
 - [mutopia] - Sheet music editions of classical music for free.
    Repository available at [github.com mutopia].
 - [openbook] - Open LilyPond real book for jazz musicians.
@@ -35,7 +35,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [imslp.org]: http://imslp.org
 [Lilypond-Sheet-Music]: https://github.com/cellist/Lilypond-Sheet-Music
 [musescore]: http://musescore.com
-[mutopia]: http://mutopiaproject.org
+[mutopia]: http://www.mutopiaproject.org
 [github.com mutopia]: https://github.com/chrissawer/The-Mutopia-Project
 [openbook]: https://github.com/veltzer/openbook
 
@@ -69,20 +69,20 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## Websites
 
-- [chromatik] - Play along to sheet music
+- [chromatik] \(commercial\) - Play along to sheet music
   of previously unreleased tunes.
 - [flat.io] - The online music score editor for your compositions.
 - [getinstinct] - Guitar lessons that listen as you play along.
 - [lilybin] - Web-based LilyPond editor and [github] project.
 - [my.vexflow] - Publish content with music notation, guitar tablature
   and chord diagrams without the need for special tools.
-- [noteflight] (commercial) - Browser based music notation creator and
+- [noteflight] \(commercial\) - Browser based music notation creator and
   music composition community.
-- [playgroundsessions] (commercial) - Learn how to play the piano with
+- [playgroundsessions] \(commercial\) - Learn how to play the piano with
   interactive lessons featuring your favorite songs.
-- [soundslice] (commercial) - Learn music better with interactive
+- [soundslice] \(commercial\) - Learn music better with interactive
   notation and tabs.
-- [synthesiagame] (commercial) - Learn how to play the piano
+- [synthesiagame] \(commercial\) - Learn how to play the piano
   using falling notes.
 - [tunefl] - Freely generate and share mini lilypond scores with ease.
 - [utab] - Synced Chords & Lyrics created by professional musicians.

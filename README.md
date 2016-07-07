@@ -96,7 +96,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [playgroundsessions]: https://playgroundsessions.com
 [soundslice]: http://soundslice.com
 [synthesiagame]: http://synthesiagame.com
-[tunefl]: http://tunefl.com
+[tunefl]: https://github.com/tiredpixel/tunefl
 [utab]: https://utab.com
 
 

@@ -116,12 +116,11 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## OMR (Optical Music Recognition)
 
-- [Audiveris] - Optical Music Recognition software
-  which processes the image of a music sheet
-  to automatically provide symbolic music information in MusicXML.
+- [Audiveris] - Optical Music Recognition engine for the Common Western Music Notation
+  working on printed music sheets to convert them into a machine readable form.
 - [Rodan] - Web-based document recognition system.
 
-[Audiveris]: http://audiveris.org
+[Audiveris]: https://github.com/Audiveris/audiveris
 [Rodan]: https://github.com/DDMAL/Rodan
 
 

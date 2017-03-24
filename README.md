@@ -12,6 +12,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [musescore] - Create, play and print sheet music.
 - [opusmodus] \(commercial\) - Software for music composition.
 - [sibelius] \(commercial\) - Create and share scores.
+- [dorico] \(commercial\) - Desktop notation software created largely by former
+  developers of the competing product Sibelius.
 
 [capella]: http://capella.de
 [finale]: http://finalemusic.com
@@ -19,6 +21,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [musescore]: http://musescore.org
 [opusmodus]: http://opusmodus.com
 [sibelius]: http://sibelius.com
+[dorico]: https://www.steinberg.net/en/products/dorico/start.html
 
 
 ## Archives

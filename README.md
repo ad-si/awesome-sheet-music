@@ -6,14 +6,14 @@ A curated list of awesome tools to create, edit and display sheet music.
 ## Music Notation Software
 
 - [capella] \(commercial\) - Create complete scores.
+- [dorico] \(commercial\) - Desktop notation software created largely by former
+  developers of the competing product Sibelius.
 - [finale] \(commercial\) - Compose, arrange, notate and print
   engraver-quality sheet music.
 - [lilypond] - Program and file format for music engraving.
 - [musescore] - Create, play and print sheet music.
 - [opusmodus] \(commercial\) - Software for music composition.
 - [sibelius] \(commercial\) - Create and share scores.
-- [dorico] \(commercial\) - Desktop notation software created largely by former
-  developers of the competing product Sibelius.
 
 [capella]: http://capella.de
 [finale]: http://finalemusic.com

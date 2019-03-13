@@ -73,9 +73,7 @@ A curated list of awesome tools to create, edit and display sheet music.
   of previously unreleased tunes.
 - [flat.io] - The online music score editor for your compositions.
 - [hacklily] - Online [LilyPond] based sheet music editor.
-- [lilybin] - Web-based 
-
-editor and [github] project.
+- [lilybin] - Web-based editor and GitHub project.
 - [my.vexflow] - Publish content with music notation, guitar tablature
   and chord diagrams without the need for special tools.
 - [noteflight] \(commercial\) - Browser based music notation creator and

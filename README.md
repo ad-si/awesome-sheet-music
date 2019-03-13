@@ -8,14 +8,14 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [capella] \(commercial\) - Create complete scores.
 - [finale] \(commercial\) - Compose, arrange, notate and print
   engraver-quality sheet music.
-- [lilypond] - Program and file format for music engraving.
+- [LilyPond] - Program and file format for music engraving.
 - [musescore] - Create, play and print sheet music.
 - [opusmodus] \(commercial\) - Software for music composition.
 - [sibelius] \(commercial\) - Create and share scores.
 
 [capella]: http://capella.de
 [finale]: http://finalemusic.com
-[lilypond]: http://lilypond.org
+[LilyPond]: http://lilypond.org
 [musescore]: http://musescore.org
 [opusmodus]: http://opusmodus.com
 [sibelius]: http://sibelius.com
@@ -25,11 +25,11 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 - [flutetunes.com] - Free sheet music for the flute.
 - [imslp.org] - Sharing the world’s public domain music.
-- [Lilypond-Sheet-Music] - Cello music typeset with LilyPond.
+- [Lilypond-Sheet-Music] - Cello music typeset with [LilyPond].
 - [musescore] - Share your sheet music and comment on others.
 - [mutopia] - Sheet music editions of classical music for free.
    Repository available at [github.com mutopia].
-- [openbook] - Open LilyPond real book for jazz musicians.
+- [openbook] - Open [LilyPond] real book for jazz musicians.
 
 [flutetunes.com]: http://flutetunes.com
 [imslp.org]: http://imslp.org
@@ -45,9 +45,9 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [alphatab] - Cross platform music notation and
   guitar tablature rendering library.
 - [ChorData] - Dummy chordbook for mandolin, ukulele and guitar.
-- [lilynode] - Node.js wrapper for lilypond.
-- [lilyware] - Node.js middleware for serving rendered lilypond files.
-- [ly2video] - Generating videos from LilyPond projects.
+- [lilynode] - Node.js wrapper for [LilyPond].
+- [lilyware] - Node.js middleware for serving rendered [LilyPond] files.
+- [ly2video] - Generating videos from [LilyPond] projects.
 - [music21] - Toolkit for computational musicology.
 - [musical.js] - A sequencing WebAudio synthesizer
   that supports ABC notation.
@@ -72,11 +72,10 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [chromatik] \(commercial\) - Play along to sheet music
   of previously unreleased tunes.
 - [flat.io] - The online music score editor for your compositions.
-- [getinstinct] - Guitar lessons that listen as you play along.
-- [hacklily] - Online LilyPond-based sheet music editor. It can be used
-  as a scratchpad, or you can sign in with a GitHub account to save sheet
-  music there.
-- [lilybin] - Web-based LilyPond editor and [github] project.
+- [hacklily] - Online [LilyPond] based sheet music editor.
+- [lilybin] - Web-based 
+
+editor and [github] project.
 - [my.vexflow] - Publish content with music notation, guitar tablature
   and chord diagrams without the need for special tools.
 - [noteflight] \(commercial\) - Browser based music notation creator and
@@ -87,12 +86,11 @@ A curated list of awesome tools to create, edit and display sheet music.
   notation and tabs.
 - [synthesiagame] \(commercial\) - Learn how to play the piano
   using falling notes.
-- [tunefl] - Freely generate and share mini lilypond scores with ease.
+- [tunefl] - Freely generate and share mini [LilyPond] scores with ease.
 - [utab] - Synced Chords & Lyrics created by professional musicians.
 
 [chromatik]: https://chromatik.com
 [flat.io]: https://flat.io
-[getinstinct]: https://getinstinct.com
 [hacklily]: https://www.hacklily.org
 [lilybin]: http://lilybin.com
 [my.vexflow]: http://my.vexflow.com

@@ -6,6 +6,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 ## Music Notation Software
 
 - [capella] \(commercial\) - Create complete scores.
+- [dorico] \(commercial\) - Desktop notation software created largely by former
+  developers of the competing product Sibelius.
 - [finale] \(commercial\) - Compose, arrange, notate and print
   engraver-quality sheet music.
 - [LilyPond] - Program and file format for music engraving.
@@ -19,6 +21,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [musescore]: http://musescore.org
 [opusmodus]: http://opusmodus.com
 [sibelius]: http://sibelius.com
+[dorico]: https://www.steinberg.net/en/products/dorico/start.html
 
 
 ## Archives
@@ -113,12 +116,10 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## OMR (Optical Music Recognition)
 
-- [Audiveris] - Optical Music Recognition software
-  which processes the image of a music sheet
-  to automatically provide symbolic music information in MusicXML.
+- [Audiveris] - Optical music recognition app for scanned scores.
 - [Rodan] - Web-based document recognition system.
 
-[Audiveris]: http://audiveris.org
+[Audiveris]: https://github.com/Audiveris/audiveris
 [Rodan]: https://github.com/DDMAL/Rodan
 
 

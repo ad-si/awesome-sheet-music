@@ -72,7 +72,6 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [chromatik] \(commercial\) - Play along to sheet music
   of previously unreleased tunes.
 - [flat.io] - The online music score editor for your compositions.
-- [getinstinct] - Guitar lessons that listen as you play along.
 - [lilybin] - Web-based LilyPond editor and [github] project.
 - [my.vexflow] - Publish content with music notation, guitar tablature
   and chord diagrams without the need for special tools.
@@ -89,7 +88,6 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 [chromatik]: https://chromatik.com
 [flat.io]: https://flat.io
-[getinstinct]: https://getinstinct.com
 [lilybin]: http://lilybin.com
 [my.vexflow]: http://my.vexflow.com
 [noteflight]: http://noteflight.com

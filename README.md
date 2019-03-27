@@ -87,6 +87,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Fretmonster] - Fingering charts app for Guitar, Ukulele, Bass, and Mandolin.
 - [Fretboard] - Chord diagrams for Guitar.
 - [hacklily] - Online [LilyPond] based sheet music editor.
+- [Jellynote] - Sheet music, chords, and videos website and apps.
 - [lilybin] - Web-based editor and GitHub project.
 - [my.vexflow] - Publish content with music notation, guitar tablature
   and chord diagrams without the need for special tools.
@@ -106,6 +107,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [Fretboard]: http://davidpots.com/fretboard/
 [Fretmonster]: http://playsongnotes.com/fretmonster
 [hacklily]: https://www.hacklily.org
+[Jellynote]: https://www.jellynote.com
 [lilybin]: http://lilybin.com
 [my.vexflow]: http://my.vexflow.com
 [noteflight]: http://noteflight.com
@@ -122,8 +124,10 @@ A curated list of awesome tools to create, edit and display sheet music.
   free sheet music and links to resources on the internet.
 - [List of Online Digital Musical Document Libraries][online libs] -
   Wikipedia list of online archives.
+- [llllllll.co/…] - Discussion about experimental music notation resources.
 
 [freemusiced]: http://freemusiced.org/free-sheet-music-links.html
+[llllllll.co/…]: https://llllllll.co/t/experimental-music-notation-resources
 [online libs]: https://en.wikipedia.org/wiki/List_of_Online_Digital_Musical_Document_Libraries
 
 

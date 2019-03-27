@@ -52,6 +52,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [alphatab] - Cross platform music notation and
   guitar tablature rendering library.
 - [ChorData] - Dummy chordbook for mandolin, ukulele and guitar.
+- [hmsl] - Hierarchical Music Specification Language.
+  Forth tools for experimental music from the 1980's
 - [lilynode] - Node.js wrapper for [LilyPond].
 - [lilyware] - Node.js middleware for serving rendered [LilyPond] files.
 - [ly2video] - Generating videos from [LilyPond] projects.
@@ -66,6 +68,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 [alphatab]: http://alphatab.net
 [ChorData]: https://github.com/starenka/chordata
+[hmsl]: https://github.com/philburk/hmsl
 [lilynode]: https://github.com/adius/lilynode
 [lilyware]: https://github.com/adius/lilyware
 [ly2video]: https://github.com/aspiers/ly2video
@@ -142,6 +145,8 @@ A curated list of awesome tools to create, edit and display sheet music.
   for the design and construction of worldwide distributed
   digital music archives and libraries.
 - [MusicScoring] - Automatically generate scores for difficult pieces of music.
+- [Notation and Thought] - Notation design and how it affects thought.
 
 [ddmal]: http://ddmal.music.mcgill.ca
 [MusicScoring]: https://github.com/xwsxethan/MusicScoring
+[Notation and Thought]: https://github.com/hypotext/notation

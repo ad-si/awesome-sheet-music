@@ -98,6 +98,7 @@ A curated list of awesome tools to create, edit and display sheet music.
   of previously unreleased tunes.
 - [Clairnote] - Alternative music notation to ease reading and understanding.
 - [flat.io] - The online music score editor for your compositions.
+- [flowkey] - Interactive app to learn how to play the piano.
 - [Fretmonster] - Fingering charts app for Guitar, Ukulele, Bass, and Mandolin.
 - [Fretboard 1] - Chords, scales, and fingerings for string instruments.
 - [Fretboard 2] - Chord diagrams for Guitar.
@@ -121,6 +122,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [chromatik]: https://chromatik.com
 [Clairnote]: https://clairnote.org
 [flat.io]: https://flat.io
+[flowkey]: https://www.flowkey.com/en
 [Fretboard 1]: https://github.com/fredericcormier/Fretboard
 [Fretboard 2]: http://davidpots.com/fretboard/
 [Fretmonster]: http://playsongnotes.com/fretmonster

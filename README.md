@@ -83,6 +83,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 - [chromatik] \(commercial\) - Play along to sheet music
   of previously unreleased tunes.
+- [Clairnote] - Alternative music notation to ease reading and understanding.
 - [flat.io] - The online music score editor for your compositions.
 - [Fretmonster] - Fingering charts app for Guitar, Ukulele, Bass, and Mandolin.
 - [Fretboard] - Chord diagrams for Guitar.
@@ -103,6 +104,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [utab] - Synced Chords & Lyrics created by professional musicians.
 
 [chromatik]: https://chromatik.com
+[Clairnote]: https://clairnote.org
 [flat.io]: https://flat.io
 [Fretboard]: http://davidpots.com/fretboard/
 [Fretmonster]: http://playsongnotes.com/fretmonster
@@ -116,6 +118,14 @@ A curated list of awesome tools to create, edit and display sheet music.
 [synthesiagame]: http://synthesiagame.com
 [tunefl]: https://github.com/tiredpixel/tunefl
 [utab]: https://utab.com
+
+
+## Apps
+
+- [Composer's Sketchpad] - Sequencer that combines musical staff paper
+  with an artist's sketchbook (iOS only).
+
+[Composer's Sketchpad]: http://composerssketchpad.com
 
 
 ## Resources

@@ -75,6 +75,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [chromatik] \(commercial\) - Play along to sheet music
   of previously unreleased tunes.
 - [flat.io] - The online music score editor for your compositions.
+- [Fretmonster] - Fingering charts app for Guitar, Ukulele, Bass, and Mandolin.
+- [Fretboard] - Chord diagrams for Guitar.
 - [hacklily] - Online [LilyPond] based sheet music editor.
 - [lilybin] - Web-based editor and GitHub project.
 - [my.vexflow] - Publish content with music notation, guitar tablature
@@ -92,6 +94,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 [chromatik]: https://chromatik.com
 [flat.io]: https://flat.io
+[Fretboard]: http://davidpots.com/fretboard/
+[Fretmonster]: http://playsongnotes.com/fretmonster
 [hacklily]: https://www.hacklily.org
 [lilybin]: http://lilybin.com
 [my.vexflow]: http://my.vexflow.com

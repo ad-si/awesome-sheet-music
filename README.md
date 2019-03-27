@@ -28,18 +28,24 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## Archives
 
+- [Bach digital] - Platform to browse through original sources
+  of J. S. Bach and his sons.
 - [CMME] - Computerized mensural music editing and database of scores.
+- [Digital Mozart Edition] - Wolfgang Amadeus Mozart's works in digital formats.
 - [flutetunes.com] - Free sheet music for the flute.
-- [imslp.org] - Sharing the world’s public domain music.
+- [IMSLP] - The International Music Score Library Project
+  to share the world’s public domain music.
 - [Lilypond-Sheet-Music] - Cello music typeset with [LilyPond].
 - [MuseScore] - Share your sheet music and comment on others.
 - [mutopia] - Sheet music editions of classical music for free.
    Repository available at [github.com mutopia].
 - [openbook] - Open [LilyPond] real book for jazz musicians.
 
+[Bach digital]: https://www.bach-digital.de
 [CMME]: https://www.cmme.org
+[Digital Mozart Edition]: https://dme-webdev.mozarteum.at
 [flutetunes.com]: http://flutetunes.com
-[imslp.org]: http://imslp.org
+[IMSLP]: http://imslp.org
 [Lilypond-Sheet-Music]: https://github.com/cellist/Lilypond-Sheet-Music
 [MuseScore]: http://musescore.com
 [mutopia]: http://www.mutopiaproject.org
@@ -61,6 +67,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [music21] - Toolkit for computational musicology.
 - [musical.js] - A sequencing WebAudio synthesizer
   that supports ABC notation.
+- [openLilyLib] - Enhancement library for [LilyPond].
 - [verovio] - An library and toolkit for
   engraving MEI music notation into SVG.
 - [zazate.js] - Music theory and notation library
@@ -75,6 +82,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [mscxyz]: https://github.com/Josef-Friedrich/mscxyz
 [music21]: https://github.com/cuthbertLab/music21
 [musical.js]: https://github.com/PencilCode/musical.js
+[openLilyLib]: https://openlilylib.org
 [verovio]: https://github.com/rism-ch/verovio
 [zazate.js]: https://github.com/btwael/zazate.js
 
@@ -135,10 +143,12 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [List of Online Digital Musical Document Libraries][online libs] -
   Wikipedia list of online archives.
 - [llllllll.co/…] - Discussion about experimental music notation resources.
+- [ViFaMusik] - Information platform for research on music and musicology.
 
 [freemusiced]: http://freemusiced.org/free-sheet-music-links.html
 [llllllll.co/…]: https://llllllll.co/t/experimental-music-notation-resources
 [online libs]: https://en.wikipedia.org/wiki/List_of_Online_Digital_Musical_Document_Libraries
+[ViFaMusik]: https://www.vifamusik.de
 
 
 ## OMR (Optical Music Recognition)

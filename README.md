@@ -10,6 +10,7 @@ A curated list of awesome tools to create, edit and display sheet music.
   developers of the competing product Sibelius.
 - [finale] \(commercial\) - Compose, arrange, notate and print
   engraver-quality sheet music.
+- [Gsharp] - Interactive extensible score editor.
 - [LilyPond] - Program and file format for music engraving.
 - [musescore] - Create, play and print sheet music.
 - [opusmodus] \(commercial\) - Software for music composition.
@@ -17,6 +18,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 [capella]: http://capella.de
 [finale]: http://finalemusic.com
+[Gsharp]: https://www.common-lisp.net/project/gsharp/
 [LilyPond]: http://lilypond.org
 [musescore]: http://musescore.org
 [opusmodus]: http://opusmodus.com
@@ -26,6 +28,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## Archives
 
+- [CMME] - Computerized mensural music editing and database of scores.
 - [flutetunes.com] - Free sheet music for the flute.
 - [imslp.org] - Sharing the world’s public domain music.
 - [Lilypond-Sheet-Music] - Cello music typeset with [LilyPond].
@@ -34,6 +37,7 @@ A curated list of awesome tools to create, edit and display sheet music.
    Repository available at [github.com mutopia].
 - [openbook] - Open [LilyPond] real book for jazz musicians.
 
+[CMME]: https://www.cmme.org
 [flutetunes.com]: http://flutetunes.com
 [imslp.org]: http://imslp.org
 [Lilypond-Sheet-Music]: https://github.com/cellist/Lilypond-Sheet-Music
@@ -121,9 +125,11 @@ A curated list of awesome tools to create, edit and display sheet music.
 ## OMR (Optical Music Recognition)
 
 - [Audiveris] - Optical music recognition app for scanned scores.
+- [Gamera] - Toolkit for building document image recognition systems.
 - [Rodan] - Web-based document recognition system.
 
 [Audiveris]: https://github.com/Audiveris/audiveris
+[Gamera]: https://gamera.informatik.hsnr.de/
 [Rodan]: https://github.com/DDMAL/Rodan
 
 

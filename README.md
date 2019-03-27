@@ -59,6 +59,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [alphatab] - Cross platform music notation and
   guitar tablature rendering library.
 - [ChorData] - Dummy chordbook for mandolin, ukulele and guitar.
+- [chordpro] - Reference implementation of the [ChordPro] standard.
 - [hmsl] - Hierarchical Music Specification Language.
   Forth tools for experimental music from the 1980's
 - [lilynode] - Node.js wrapper for [LilyPond].
@@ -77,6 +78,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [alda]: https://github.com/alda-lang/alda
 [alphatab]: http://alphatab.net
 [ChorData]: https://github.com/starenka/chordata
+[chordpro]: https://github.com/ChordPro/chordpro
 [hmsl]: https://github.com/philburk/hmsl
 [lilynode]: https://github.com/adius/lilynode
 [lilyware]: https://github.com/adius/lilyware
@@ -91,6 +93,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## Websites
 
+- [ChordPro] - Simple text format for the notation of lyrics with chords.
 - [chromatik] \(commercial\) - Play along to sheet music
   of previously unreleased tunes.
 - [Clairnote] - Alternative music notation to ease reading and understanding.
@@ -114,6 +117,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [tunefl] - Freely generate and share mini [LilyPond] scores with ease.
 - [utab] - Synced Chords & Lyrics created by professional musicians.
 
+[ChordPro]: https://www.chordpro.org
 [chromatik]: https://chromatik.com
 [Clairnote]: https://clairnote.org
 [flat.io]: https://flat.io
@@ -136,8 +140,17 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper
   with an artist's sketchbook (iOS only).
+- [Dodeka] - App to learn how to play the piano.
 
 [Composer's Sketchpad]: http://composerssketchpad.com
+[Dodeka]: https://www.dodekamusic.com/dodeka-music-app/
+
+
+## Notations
+
+[Dodeka Music Notation] - Simple, and visual music notation.
+
+[Dodeka Music Notation]: https://www.dodekamusic.com/how-to-learn-music-faster/
 
 
 ## Resources

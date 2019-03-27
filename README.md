@@ -55,6 +55,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## Software Libraries
 
+- [alda] - Music programming language for musicians.
 - [alphatab] - Cross platform music notation and
   guitar tablature rendering library.
 - [ChorData] - Dummy chordbook for mandolin, ukulele and guitar.
@@ -73,6 +74,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [zazate.js] - Music theory and notation library
   for javascript and node.js.
 
+[alda]: https://github.com/alda-lang/alda
 [alphatab]: http://alphatab.net
 [ChorData]: https://github.com/starenka/chordata
 [hmsl]: https://github.com/philburk/hmsl
@@ -94,7 +96,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Clairnote] - Alternative music notation to ease reading and understanding.
 - [flat.io] - The online music score editor for your compositions.
 - [Fretmonster] - Fingering charts app for Guitar, Ukulele, Bass, and Mandolin.
-- [Fretboard] - Chord diagrams for Guitar.
+- [Fretboard 1] - Chords, scales, and fingerings for string instruments.
+- [Fretboard 2] - Chord diagrams for Guitar.
 - [hacklily] - Online [LilyPond] based sheet music editor.
 - [Jellynote] - Sheet music, chords, and videos website and apps.
 - [lilybin] - Web-based editor and GitHub project.
@@ -114,7 +117,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 [chromatik]: https://chromatik.com
 [Clairnote]: https://clairnote.org
 [flat.io]: https://flat.io
-[Fretboard]: http://davidpots.com/fretboard/
+[Fretboard 1]: https://github.com/fredericcormier/Fretboard
+[Fretboard 2]: http://davidpots.com/fretboard/
 [Fretmonster]: http://playsongnotes.com/fretmonster
 [hacklily]: https://www.hacklily.org
 [Jellynote]: https://www.jellynote.com

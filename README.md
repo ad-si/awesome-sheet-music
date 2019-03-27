@@ -12,7 +12,7 @@ A curated list of awesome tools to create, edit and display sheet music.
   engraver-quality sheet music.
 - [Gsharp] - Interactive extensible score editor.
 - [LilyPond] - Program and file format for music engraving.
-- [musescore] - Create, play and print sheet music.
+- [MuseScore] - Create, play and print sheet music.
 - [opusmodus] \(commercial\) - Software for music composition.
 - [sibelius] \(commercial\) - Create and share scores.
 
@@ -20,7 +20,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [finale]: http://finalemusic.com
 [Gsharp]: https://www.common-lisp.net/project/gsharp/
 [LilyPond]: http://lilypond.org
-[musescore]: http://musescore.org
+[MuseScore]: http://musescore.org
 [opusmodus]: http://opusmodus.com
 [sibelius]: http://sibelius.com
 [dorico]: https://www.steinberg.net/en/products/dorico/start.html
@@ -32,7 +32,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [flutetunes.com] - Free sheet music for the flute.
 - [imslp.org] - Sharing the world’s public domain music.
 - [Lilypond-Sheet-Music] - Cello music typeset with [LilyPond].
-- [musescore] - Share your sheet music and comment on others.
+- [MuseScore] - Share your sheet music and comment on others.
 - [mutopia] - Sheet music editions of classical music for free.
    Repository available at [github.com mutopia].
 - [openbook] - Open [LilyPond] real book for jazz musicians.
@@ -41,7 +41,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [flutetunes.com]: http://flutetunes.com
 [imslp.org]: http://imslp.org
 [Lilypond-Sheet-Music]: https://github.com/cellist/Lilypond-Sheet-Music
-[musescore]: http://musescore.com
+[MuseScore]: http://musescore.com
 [mutopia]: http://www.mutopiaproject.org
 [github.com mutopia]: https://github.com/chrissawer/The-Mutopia-Project
 [openbook]: https://github.com/veltzer/openbook
@@ -55,6 +55,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [lilynode] - Node.js wrapper for [LilyPond].
 - [lilyware] - Node.js middleware for serving rendered [LilyPond] files.
 - [ly2video] - Generating videos from [LilyPond] projects.
+- [mscxyz] - Manipulate [MuseScore]'s XML based mscx files.
 - [music21] - Toolkit for computational musicology.
 - [musical.js] - A sequencing WebAudio synthesizer
   that supports ABC notation.
@@ -68,6 +69,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [lilynode]: https://github.com/adius/lilynode
 [lilyware]: https://github.com/adius/lilyware
 [ly2video]: https://github.com/aspiers/ly2video
+[mscxyz]: https://github.com/Josef-Friedrich/mscxyz
 [music21]: https://github.com/cuthbertLab/music21
 [musical.js]: https://github.com/PencilCode/musical.js
 [verovio]: https://github.com/rism-ch/verovio
@@ -139,5 +141,7 @@ A curated list of awesome tools to create, edit and display sheet music.
   Development and evaluation of practices, frameworks and tools
   for the design and construction of worldwide distributed
   digital music archives and libraries.
+- [MusicScoring] - Automatically generate scores for difficult pieces of music.
 
 [ddmal]: http://ddmal.music.mcgill.ca
+[MusicScoring]: https://github.com/xwsxethan/MusicScoring

@@ -62,9 +62,11 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [chordpro] - Reference implementation of the [ChordPro] standard.
 - [hmsl] - Hierarchical Music Specification Language.
   Forth tools for experimental music from the 1980's
+- [Hum] - Music notation language and synthesizer.
 - [lilynode] - Node.js wrapper for [LilyPond].
 - [lilyware] - Node.js middleware for serving rendered [LilyPond] files.
 - [ly2video] - Generating videos from [LilyPond] projects.
+- [Melo] - Music notation language and compiler to MIDI.
 - [mscxyz] - Manipulate [MuseScore]'s XML based mscx files.
 - [music21] - Toolkit for computational musicology.
 - [musical.js] - A sequencing WebAudio synthesizer
@@ -80,9 +82,11 @@ A curated list of awesome tools to create, edit and display sheet music.
 [ChorData]: https://github.com/starenka/chordata
 [chordpro]: https://github.com/ChordPro/chordpro
 [hmsl]: https://github.com/philburk/hmsl
+[Hum]: https://github.com/crbulakites/hum
 [lilynode]: https://github.com/adius/lilynode
 [lilyware]: https://github.com/adius/lilyware
 [ly2video]: https://github.com/aspiers/ly2video
+[Melo]: https://github.com/Mistodon/melo
 [mscxyz]: https://github.com/Josef-Friedrich/mscxyz
 [music21]: https://github.com/cuthbertLab/music21
 [musical.js]: https://github.com/PencilCode/musical.js

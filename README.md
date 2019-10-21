@@ -31,6 +31,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Bach digital] - Platform to browse through original sources
   of J. S. Bach and his sons.
 - [CMME] - Computerized mensural music editing and database of scores.
+- [CPDL] - The Choral Public Domain Library, an archive focused on
+  choral and vocal music.
 - [Digital Mozart Edition] - Wolfgang Amadeus Mozart's works in digital formats.
 - [flutetunes.com] - Free sheet music for the flute.
 - [IMSLP] - The International Music Score Library Project
@@ -45,6 +47,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [Bach digital]: https://www.bach-digital.de
 [CMME]: https://www.cmme.org
 [Digital Mozart Edition]: https://dme-webdev.mozarteum.at
+[CPDL]: https://www.cpdl.org
 [flutetunes.com]: http://flutetunes.com
 [IMSLP]: http://imslp.org
 [Kern Scores]: http://kern.humdrum.org/

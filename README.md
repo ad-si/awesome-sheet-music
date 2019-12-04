@@ -103,8 +103,6 @@ A curated list of awesome tools to create, edit and display sheet music.
 ## Websites
 
 - [ChordPro] - Simple text format for the notation of lyrics with chords.
-- [chromatik] \(commercial\) - Play along to sheet music
-  of previously unreleased tunes.
 - [Clairnote] - Alternative music notation to ease reading and understanding.
 - [flat.io] - The online music score editor for your compositions.
 - [flowkey] - Interactive app to learn how to play the piano.
@@ -121,15 +119,12 @@ A curated list of awesome tools to create, edit and display sheet music.
   music composition community.
 - [playgroundsessions] \(commercial\) - Learn how to play the piano with
   interactive lessons featuring your favorite songs.
-- [soundslice] \(commercial\) - Learn music better with interactive
-  notation and tabs.
+- [Soundslice] \(commercial\) - Browse and create sheet music/tab synced with audio/video performances.
 - [synthesiagame] \(commercial\) - Learn how to play the piano
   using falling notes.
 - [tunefl] - Freely generate and share mini [LilyPond] scores with ease.
-- [utab] - Synced Chords & Lyrics created by professional musicians.
 
 [ChordPro]: https://www.chordpro.org
-[chromatik]: https://chromatik.com
 [Clairnote]: https://clairnote.org
 [flat.io]: https://flat.io
 [flowkey]: https://www.flowkey.com/en
@@ -143,10 +138,9 @@ A curated list of awesome tools to create, edit and display sheet music.
 [my.vexflow]: http://my.vexflow.com
 [noteflight]: http://noteflight.com
 [playgroundsessions]: https://playgroundsessions.com
-[soundslice]: http://soundslice.com
+[soundslice]: https://www.soundslice.com
 [synthesiagame]: http://synthesiagame.com
 [tunefl]: https://github.com/tiredpixel/tunefl
-[utab]: https://utab.com
 
 
 ## Apps
@@ -174,11 +168,13 @@ A curated list of awesome tools to create, edit and display sheet music.
   Wikipedia list of online archives.
 - [llllllll.co/…] - Discussion about experimental music notation resources.
 - [ViFaMusik] - Information platform for research on music and musicology.
+- [W3C Music Notation Community Group] - Standards group developing MusicXML, SMuFL and MNX-Common formats.
 
 [freemusiced]: http://freemusiced.org/free-sheet-music-links.html
 [llllllll.co/…]: https://llllllll.co/t/experimental-music-notation-resources
 [online libs]: https://en.wikipedia.org/wiki/List_of_Online_Digital_Musical_Document_Libraries
 [ViFaMusik]: https://www.vifamusik.de
+[W3C Music Notation Community Group]: https://www.w3.org/community/music-notation/
 
 
 ## OMR (Optical Music Recognition)

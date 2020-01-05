@@ -155,9 +155,9 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## Notations
 
-[Dodeka Music Notation] - Simple, and visual music notation.
+- [Dodeka Music Notation] - A simple yet powerful alternative music notation.
 
-[Dodeka Music Notation]: https://www.dodekamusic.com/how-to-learn-music-faster/
+[Dodeka Music Notation]: https://www.dodekamusic.com/learn/alternative-music-notation/
 
 
 ## Resources

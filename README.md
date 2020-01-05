@@ -65,6 +65,7 @@ A curated list of awesome tools to create, edit and display sheet music.
   guitar tablature rendering library.
 - [ChorData] - Dummy chordbook for mandolin, ukulele and guitar.
 - [chordpro] - Reference implementation of the [ChordPro] standard.
+- [EMViz] - Visualize melodic patterns in MIDI files with arc diagrams.
 - [hmsl] - Hierarchical Music Specification Language.
   Forth tools for experimental music from the 1980's
 - [Hum] - Music notation language and synthesizer.
@@ -77,6 +78,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [musical.js] - A sequencing WebAudio synthesizer
   that supports ABC notation.
 - [openLilyLib] - Enhancement library for [LilyPond].
+- [ScoreAnalyzer] - Analyze piano sheet music for technical difficulties.
 - [verovio] - An library and toolkit for
   engraving MEI music notation into SVG.
 - [zazate.js] - Music theory and notation library
@@ -86,6 +88,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [alphatab]: http://alphatab.net
 [ChorData]: https://github.com/starenka/chordata
 [chordpro]: https://github.com/ChordPro/chordpro
+[EMViz]: https://github.com/carterenyi/emviz
 [hmsl]: https://github.com/philburk/hmsl
 [Hum]: https://github.com/crbulakites/hum
 [lilynode]: https://github.com/adius/lilynode
@@ -96,6 +99,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [music21]: https://github.com/cuthbertLab/music21
 [musical.js]: https://github.com/PencilCode/musical.js
 [openLilyLib]: https://openlilylib.org
+[ScoreAnalyzer]: https://github.com/Vassantha/ScoreAnalyzer
 [verovio]: https://github.com/rism-ch/verovio
 [zazate.js]: https://github.com/btwael/zazate.js
 

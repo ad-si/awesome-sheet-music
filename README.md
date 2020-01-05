@@ -35,6 +35,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [flutetunes.com] - Free sheet music for the flute.
 - [IMSLP] - The International Music Score Library Project
   to share the world’s public domain music.
+- [Kern Scores] - Library of musical scores in the Humdrum \*\*kern data format.
 - [Lilypond-Sheet-Music] - Cello music typeset with [LilyPond].
 - [MuseScore] - Share your sheet music and comment on others.
 - [mutopia] - Sheet music editions of classical music for free.
@@ -46,6 +47,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [Digital Mozart Edition]: https://dme-webdev.mozarteum.at
 [flutetunes.com]: http://flutetunes.com
 [IMSLP]: http://imslp.org
+[Kern Scores]: http://kern.humdrum.org/
 [Lilypond-Sheet-Music]: https://github.com/cellist/Lilypond-Sheet-Music
 [MuseScore]: http://musescore.com
 [mutopia]: http://www.mutopiaproject.org

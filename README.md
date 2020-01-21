@@ -160,8 +160,12 @@ A curated list of awesome tools to create, edit and display sheet music.
 ## Notations
 
 - [Dodeka Music Notation] - A simple yet powerful alternative music notation.
+- [Karya] - Music sequencer and generalized notation.
+- [Vnote] - Experimental isomorphic musical notation.
 
 [Dodeka Music Notation]: https://www.dodekamusic.com/learn/alternative-music-notation/
+[Karya]: https://github.com/elaforge/karya
+[Vnote]: https://fpereiro.github.io/vnote/
 
 
 ## Resources

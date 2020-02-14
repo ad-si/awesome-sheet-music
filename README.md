@@ -154,7 +154,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Dodeka] - App to learn how to play the piano.
 
 [Composer's Sketchpad]: http://composerssketchpad.com
-[Dodeka]: https://www.dodekamusic.com/dodeka-music-app/
+[Dodeka]: https://www.dodekamusic.com/products/dodeka-music-app/
 
 
 ## Notations

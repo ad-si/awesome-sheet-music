@@ -108,14 +108,14 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 - [ChordPro] - Simple text format for the notation of lyrics with chords.
 - [Clairnote] - Alternative music notation to ease reading and understanding.
-- [flat.io] - The online music score editor for your compositions.
-- [flowkey] - Interactive app to learn how to play the piano.
+- [flat.io] \(commercial\) - The online music score editor for your compositions.
+- [flowkey] \(commercial\) - Interactive app to learn how to play the piano.
 - [Fretmonster] - Fingering charts app for Guitar, Ukulele, Bass, and Mandolin.
 - [Fretboard 1] - Chords, scales, and fingerings for string instruments.
 - [Fretboard 2] - Chord diagrams for Guitar.
 - [Guitar Dashboard] - An interactive music theory dashboard for guitarists.
 - [hacklily] - Online [LilyPond] based sheet music editor.
-- [Jellynote] - Sheet music, chords, and videos website and apps.
+- [Jellynote] \(commercial\) - Sheet music, chords, and videos website and apps.
 - [lilybin] - Web-based editor and GitHub project.
 - [my.vexflow] - Publish content with music notation, guitar tablature
   and chord diagrams without the need for special tools.

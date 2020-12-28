@@ -65,6 +65,7 @@ A curated list of awesome tools to create, edit and display sheet music.
   guitar tablature rendering library.
 - [ChorData] - Dummy chordbook for mandolin, ukulele and guitar.
 - [chordpro] - Reference implementation of the [ChordPro] standard.
+- [Digital Music Stand] - A simple browser-based viewer to display and search music sheets.
 - [EMViz] - Visualize melodic patterns in MIDI files with arc diagrams.
 - [hmsl] - Hierarchical Music Specification Language.
   Forth tools for experimental music from the 1980's
@@ -88,6 +89,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [alphatab]: http://alphatab.net
 [ChorData]: https://github.com/starenka/chordata
 [chordpro]: https://github.com/ChordPro/chordpro
+[Digital Music Stand]: https://github.com/PatWie/digitalmusicstand
 [EMViz]: https://github.com/carterenyi/emviz
 [hmsl]: https://github.com/philburk/hmsl
 [Hum]: https://github.com/crbulakites/hum

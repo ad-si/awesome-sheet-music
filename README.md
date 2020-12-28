@@ -80,6 +80,7 @@ A curated list of awesome tools to create, edit and display sheet music.
   that supports ABC notation.
 - [openLilyLib] - Enhancement library for [LilyPond].
 - [ScoreAnalyzer] - Analyze piano sheet music for technical difficulties.
+- [Smude] - A library dedicated to binarization and dewarping of sheet music images.
 - [verovio] - An library and toolkit for
   engraving MEI music notation into SVG.
 - [zazate.js] - Music theory and notation library
@@ -102,6 +103,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [musical.js]: https://github.com/PencilCode/musical.js
 [openLilyLib]: https://openlilylib.org
 [ScoreAnalyzer]: https://github.com/Vassantha/ScoreAnalyzer
+[Smude]: https://github.com/sonovice/smude
 [verovio]: https://github.com/rism-ch/verovio
 [zazate.js]: https://github.com/btwael/zazate.js
 

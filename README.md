@@ -151,7 +151,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper
   with an artist's sketchbook (iOS only).
-- [Dodeka] - App to learn how to play the piano.
+- [Dodeka] - App to learn how to play the piano (iPad only).
 
 [Composer's Sketchpad]: http://composerssketchpad.com
 [Dodeka]: https://www.dodekamusic.com/products/dodeka-music-app/

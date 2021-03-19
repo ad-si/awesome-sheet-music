@@ -75,9 +75,11 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [ly2video] - Generating videos from [LilyPond] projects.
 - [Melo] - Music notation language and compiler to MIDI.
 - [mscxyz] - Manipulate [MuseScore]'s XML based mscx files.
+- [Music Sheet Viewer] - Wordpress plugin to embed
+    sheet music with shortcode tags.
 - [music21] - Toolkit for computational musicology.
 - [musical.js] - A sequencing WebAudio synthesizer
-  that supports ABC notation.
+    that supports ABC notation.
 - [openLilyLib] - Enhancement library for [LilyPond].
 - [ScoreAnalyzer] - Analyze piano sheet music for technical difficulties.
 - [Smude] - A library dedicated to binarization and dewarping of sheet music images.
@@ -85,6 +87,7 @@ A curated list of awesome tools to create, edit and display sheet music.
   engraving MEI music notation into SVG.
 - [zazate.js] - Music theory and notation library
   for javascript and node.js.
+- [SeePlay] - Webapp to teach sight reading of sheet music.
 
 [alda]: https://github.com/alda-lang/alda
 [alphatab]: http://alphatab.net
@@ -99,10 +102,12 @@ A curated list of awesome tools to create, edit and display sheet music.
 [ly2video]: https://github.com/aspiers/ly2video
 [Melo]: https://github.com/Mistodon/melo
 [mscxyz]: https://github.com/Josef-Friedrich/mscxyz
+[Music Sheet Viewer]: https://wordpress.org/plugins/music-sheet-viewer/
 [music21]: https://github.com/cuthbertLab/music21
 [musical.js]: https://github.com/PencilCode/musical.js
 [openLilyLib]: https://openlilylib.org
 [ScoreAnalyzer]: https://github.com/Vassantha/ScoreAnalyzer
+[SeePlay]: https://github.com/LearningNerd/seeplay
 [Smude]: https://github.com/sonovice/smude
 [verovio]: https://github.com/rism-ch/verovio
 [zazate.js]: https://github.com/btwael/zazate.js
@@ -127,10 +132,14 @@ A curated list of awesome tools to create, edit and display sheet music.
   music composition community.
 - [playgroundsessions] \(commercial\) - Learn how to play the piano with
   interactive lessons featuring your favorite songs.
-- [Soundslice] \(commercial\) - Browse and create sheet music/tab synced with audio/video performances.
+- [Soundslice] \(commercial\) -
+    Browse and create sheet music/tab synced with audio/video performances.
 - [synthesiagame] \(commercial\) - Learn how to play the piano
   using falling notes.
 - [tunefl] - Freely generate and share mini [LilyPond] scores with ease.
+- [La Partition Numerique] -
+    French speaking site dedicated to the future of musical scores.
+
 
 [ChordPro]: https://www.chordpro.org
 [Clairnote]: https://clairnote.org
@@ -142,6 +151,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [Guitar Dashboard]: https://guitardashboard.com/
 [hacklily]: https://www.hacklily.org
 [Jellynote]: https://www.jellynote.com
+[La Partition Numerique]: https://www.partitionnumerique.com
 [lilybin]: http://lilybin.com
 [my.vexflow]: http://my.vexflow.com
 [noteflight]: http://noteflight.com
@@ -175,18 +185,29 @@ A curated list of awesome tools to create, edit and display sheet music.
 ## Resources
 
 - [freemusiced] - Fingering charts, scale sheets,
-  free sheet music and links to resources on the internet.
+    free sheet music and links to resources on the internet.
 - [List of Online Digital Musical Document Libraries][online libs] -
-  Wikipedia list of online archives.
+    Wikipedia list of online archives.
 - [llllllll.co/…] - Discussion about experimental music notation resources.
+- [MNX] - XML based next generation music markup proposal.
+- [MEI] - Music Encoding Initiative.
+    Community-driven, open-source effort
+    to define a system for encoding musical documents.
+- [SMuFL] - Standard Music Font Layout.
 - [ViFaMusik] - Information platform for research on music and musicology.
-- [W3C Music Notation Community Group] - Standards group developing MusicXML, SMuFL and MNX-Common formats.
+- [W3C Music Notation Community Group] -
+    Standards group developing MusicXML, [SMuFL] and [MNX]-Common formats.
 
 [freemusiced]: http://freemusiced.org/free-sheet-music-links.html
 [llllllll.co/…]: https://llllllll.co/t/experimental-music-notation-resources
-[online libs]: https://en.wikipedia.org/wiki/List_of_Online_Digital_Musical_Document_Libraries
+[MEI]: https://music-encoding.org
+[MNX]: https://w3c.github.io/mnx/
+[online libs]:
+  https://en.wikipedia.org/wiki/List_of_Online_Digital_Musical_Document_Libraries
+[SMuFL]: https://w3c.github.io/smufl/latest/index.html
 [ViFaMusik]: https://www.vifamusik.de
-[W3C Music Notation Community Group]: https://www.w3.org/community/music-notation/
+[W3C Music Notation Community Group]:
+  https://www.w3.org/community/music-notation/
 
 
 ## OMR (Optical Music Recognition)

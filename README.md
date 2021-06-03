@@ -81,7 +81,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [musical.js] - A sequencing WebAudio synthesizer
     that supports ABC notation.
 - [openLilyLib] - Enhancement library for [LilyPond].
-- [OpenSheetMusicDisplay] - Typescript library for rendering MusicXML in the browser.
+- [OpenSheetMusicDisplay] - TypeScript library for rendering MusicXML in the browser.
 - [ScoreAnalyzer] - Analyze piano sheet music for technical difficulties.
 - [Smude] - A library dedicated to binarization and dewarping of sheet music images.
 - [verovio] - An library and toolkit for

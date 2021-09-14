@@ -43,7 +43,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [mutopia] - Sheet music editions of classical music for free.
    Repository available at [github.com mutopia].
 - [openbook] - Open [LilyPond] real book for jazz musicians.
-- [SheetAble](https://sheetable.net) - SheetAble is an easy-to-use music sheet organizer for uploading and organizing your sheet music. (self-hosted)
+- [SheetAble](https://sheetable.net) - Music sheet organizer for organizing your sheet music. (self-hosted)
 
 [Bach digital]: https://www.bach-digital.de
 [CMME]: https://www.cmme.org

@@ -83,6 +83,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [openLilyLib] - Enhancement library for [LilyPond].
 - [OpenSheetMusicDisplay] - TypeScript library for rendering MusicXML in the browser.
 - [ScoreAnalyzer] - Analyze piano sheet music for technical difficulties.
+- [SheetAble] - Self-hostable server for organizing sheet music.
 - [Smude] - A library dedicated to binarization and dewarping of sheet music images.
 - [verovio] - An library and toolkit for
   engraving MEI music notation into SVG.
@@ -110,6 +111,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [OpenSheetMusicDisplay]: https://github.com/opensheetmusicdisplay/opensheetmusicdisplay
 [ScoreAnalyzer]: https://github.com/Vassantha/ScoreAnalyzer
 [SeePlay]: https://github.com/LearningNerd/seeplay
+[SheetAble]: https://sheetable.net
 [Smude]: https://github.com/sonovice/smude
 [verovio]: https://github.com/rism-ch/verovio
 [zazate.js]: https://github.com/btwael/zazate.js

@@ -15,7 +15,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [MuseScore] - Create, play and print sheet music.
 - [opusmodus] \(commercial\) - Software for music composition.
 - [sibelius] \(commercial\) - Create and share scores.
-- [unison] \(commercial\) - Create sheet music just by describing them with simple words.
+- [Unison] \(commercial\) - Create sheet music by describing it with simple words.
 
 [capella]: http://capella.de
 [finale]: http://finalemusic.com
@@ -25,7 +25,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 [opusmodus]: http://opusmodus.com
 [sibelius]: http://sibelius.com
 [dorico]: https://www.steinberg.net/en/products/dorico/start.html
-[unison]: https://unisonofficial.com/html/about.html
+[Unison]: https://unisonofficial.com/html/about.html
+
 
 ## Archives
 

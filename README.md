@@ -169,12 +169,23 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## Apps
 
+- [Enote] - Digital sheet music app with large library (iPad / iOS)
+- [Newzik] - Sheet music app
+- [Nkoda] - Sheet music app
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper
   with an artist's sketchbook (iOS only).
 - [Dodeka] - App to learn how to play the piano (iPad only).
+- [StaffPad] - Mobile app for writing/composing music (Mac / Windows)
+- [ScorePad] - Sheet music app
 
+
+[Enote]: https://enote.com
+[Newzik]: https://newzik.com
+[Nkoda]: https://www.nkoda.com
 [Composer's Sketchpad]: http://composerssketchpad.com
-[Dodeka]: https://www.dodekamusic.com/products/dodeka-music-app/
+[Dodeka]: https://www.dodekamusic.com/products/dodeka-music-app
+[StaffPad]: https://www.staffpad.net
+[ScorePad]: https://www.scorepad.ch
 
 
 ## Notations
@@ -221,10 +232,12 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Audiveris] - Optical music recognition app for scanned scores.
 - [Gamera] - Toolkit for building document image recognition systems.
 - [Rodan] - Web-based document recognition system.
+- [PlayScore] - Mobile app for recognizing music sheets.
 
 [Audiveris]: https://github.com/Audiveris/audiveris
 [Gamera]: https://gamera.informatik.hsnr.de/
 [Rodan]: https://github.com/DDMAL/Rodan
+[PlayScore]: https://www.playscore.co/
 
 
 ## Research
@@ -235,7 +248,13 @@ A curated list of awesome tools to create, edit and display sheet music.
   digital music archives and libraries.
 - [MusicScoring] - Automatically generate scores for difficult pieces of music.
 - [Notation and Thought] - Notation design and how it affects thought.
+- [Optical Music Recognition Research Website][omr-website] - Website of OMR research community
+- [Optical Music Recognition Research YouTube][omr-youtube] - Youtube channel of OMR research community
+- [Optical Music Recognition Research Github][omr-github] - Public Github hub for Optical Music Recognition research
 
 [ddmal]: http://ddmal.music.mcgill.ca
 [MusicScoring]: https://github.com/xwsxethan/MusicScoring
 [Notation and Thought]: https://github.com/hypotext/notation
+[omr-website]: https://omr-research.net
+[omr-youtube]: https://youtube.com/OpticalMusicRecognition
+[omr-github]: https://github.com/OMR-Research

@@ -66,6 +66,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [alphatab] - Cross platform music notation and
   guitar tablature rendering library.
 - [ChorData] - Dummy chordbook for mandolin, ukulele and guitar.
+- [chord-mark] - Reference implementation of the [ChordMark] notation.
 - [chordpro] - Reference implementation of the [ChordPro] standard.
 - [Digital Music Stand] - A simple browser-based viewer to display and search music sheets.
 - [EMViz] - Visualize melodic patterns in MIDI files with arc diagrams.
@@ -96,6 +97,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [alda]: https://github.com/alda-lang/alda
 [alphatab]: http://alphatab.net
 [ChorData]: https://github.com/starenka/chordata
+[chord-mark]: https://github.com/no-chris/chord-mark/
 [chordpro]: https://github.com/ChordPro/chordpro
 [Digital Music Stand]: https://github.com/PatWie/digitalmusicstand
 [EMViz]: https://github.com/carterenyi/emviz
@@ -121,6 +123,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## Websites
 
+- [ChordMark] - Simple text format for the notation of lyrics, chords and rhythm.
 - [ChordPro] - Simple text format for the notation of lyrics with chords.
 - [Clairnote] - Alternative music notation to ease reading and understanding.
 - [flat.io] \(commercial\) - The online music score editor for your compositions.
@@ -147,6 +150,7 @@ A curated list of awesome tools to create, edit and display sheet music.
     French speaking site dedicated to the future of musical scores.
 
 
+[ChordMark]: https://chordmark.netlify.app/
 [ChordPro]: https://www.chordpro.org
 [Clairnote]: https://clairnote.org
 [flat.io]: https://flat.io

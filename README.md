@@ -202,6 +202,14 @@ A curated list of awesome tools to create, edit and display sheet music.
 [Vnote]: https://fpereiro.github.io/vnote/
 
 
+## Hardware
+
+- [Piano-LED-Visualizer] - Enhanced piano playing
+    with a Raspberry Pi powered LED strip.
+
+[Piano-LED-Visualizer]: https://github.com/onlaj/Piano-LED-Visualizer
+
+
 ## Resources
 
 - [freemusiced] - Fingering charts, scale sheets,

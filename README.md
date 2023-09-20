@@ -181,11 +181,14 @@ A curated list of awesome tools to create, edit and display sheet music.
 ## Apps
 
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper
-  with an artist's sketchbook (iOS only).
+    with an artist's sketchbook (iOS only).
 - [Dodeka] - App to learn how to play the piano (iPad only).
+- [PianoBooster] - MIDI file player displaying musical notes
+    and teaching how to play the piano.
 
 [Composer's Sketchpad]: http://composerssketchpad.com
 [Dodeka]: https://www.dodekamusic.com/products/dodeka-music-app/
+[PianoBooster]: https://github.com/pianobooster/PianoBooster
 
 
 ## Notations

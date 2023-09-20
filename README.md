@@ -147,6 +147,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [MoonPiano] - Free webapp to practice the Piano.
 - [my.vexflow] - Publish content with music notation, guitar tablature
   and chord diagrams without the need for special tools.
+- [Newzik] - Collaborative sheet music management app
+    and reader for web, iPadOS, and macOS.
 - [noteflight] \(commercial\) - Browser based music notation creator and
   music composition community.
 - [PianoGym] - Piano sight reading exercises and flash cards.
@@ -177,6 +179,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [lilybin]: http://lilybin.com
 [MoonPiano]: https://moonpiano.praisethemoon.org/
 [my.vexflow]: http://my.vexflow.com
+[Newzik]: https://newzik.com
 [noteflight]: http://noteflight.com
 [PianoGym]: https://pianogym.com
 [Pianu]: https://pianu.com
@@ -191,12 +194,18 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper
     with an artist's sketchbook (iOS only).
 - [Dodeka] - App to learn how to play the piano (iPad only).
+- [Enote] - Digital sheet music app with large library (iPadOS, iOS).
+- [Nkoda] - Find, organize, and annotate sheet music.
 - [PianoBooster] - MIDI file player displaying musical notes
     and teaching how to play the piano.
+- [StaffPad] -  Music composition app, designed for pen and touch.
 
 [Composer's Sketchpad]: http://composerssketchpad.com
 [Dodeka]: https://www.dodekamusic.com/products/dodeka-music-app/
+[Enote]: https://enote.com
+[Nkoda]: https://www.nkoda.com
 [PianoBooster]: https://github.com/pianobooster/PianoBooster
+[StaffPad]: https://www.staffpad.net
 
 
 ## Notations
@@ -250,10 +259,12 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 - [Audiveris] - Optical music recognition app for scanned scores.
 - [Gamera] - Toolkit for building document image recognition systems.
+- [PlayScore] – Sheet Music Scanning App (iOS, Android, Windows).
 - [Rodan] - Web-based document recognition system.
 
 [Audiveris]: https://github.com/Audiveris/audiveris
 [Gamera]: https://gamera.informatik.hsnr.de/
+[PlayScore]: https://www.playscore.co
 [Rodan]: https://github.com/DDMAL/Rodan
 
 
@@ -265,7 +276,9 @@ A curated list of awesome tools to create, edit and display sheet music.
   digital music archives and libraries.
 - [MusicScoring] - Automatically generate scores for difficult pieces of music.
 - [Notation and Thought] - Notation design and how it affects thought.
+- [OMR Research] - Research hub for Optical Music Recognition.
 
 [ddmal]: http://ddmal.music.mcgill.ca
 [MusicScoring]: https://github.com/xwsxethan/MusicScoring
 [Notation and Thought]: https://github.com/hypotext/notation
+[OMR Research]: https://github.com/OMR-Research

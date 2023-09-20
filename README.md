@@ -123,8 +123,10 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ### AI Powered
 
+- [AnthemScore] - Automatically create sheet music from audio.
 - [Piano Transcription] - Transcribe piano recordings to MIDI files.
 
+[AnthemScore]: https://www.lunaverus.com
 [Piano Transcription]: https://github.com/bytedance/piano_transcription
 
 

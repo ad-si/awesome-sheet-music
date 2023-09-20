@@ -121,6 +121,13 @@ A curated list of awesome tools to create, edit and display sheet music.
 [zazate.js]: https://github.com/btwael/zazate.js
 
 
+### AI Powered
+
+- [Piano Transcription] - Transcribe piano recordings to MIDI files.
+
+[Piano Transcription]: https://github.com/bytedance/piano_transcription
+
+
 ## Websites
 
 - [ChordMark] - Simple text format for the notation of lyrics, chords and rhythm.

@@ -144,10 +144,13 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [hacklily] - Online [LilyPond] based sheet music editor.
 - [Jellynote] \(commercial\) - Sheet music, chords, and videos website and apps.
 - [lilybin] - Web-based editor and GitHub project.
+- [MoonPiano] - Free webapp to practice the Piano.
 - [my.vexflow] - Publish content with music notation, guitar tablature
   and chord diagrams without the need for special tools.
 - [noteflight] \(commercial\) - Browser based music notation creator and
   music composition community.
+- [PianoGym] - Piano sight reading exercises and flash cards.
+- [Pianu] - Learn how to play the piano with interactive lessons.
 - [playgroundsessions] \(commercial\) - Learn how to play the piano with
   interactive lessons featuring your favorite songs.
 - [Soundslice] \(commercial\) -
@@ -172,8 +175,11 @@ A curated list of awesome tools to create, edit and display sheet music.
 [Jellynote]: https://www.jellynote.com
 [La Partition Numerique]: https://www.partitionnumerique.com
 [lilybin]: http://lilybin.com
+[MoonPiano]: https://moonpiano.praisethemoon.org/
 [my.vexflow]: http://my.vexflow.com
 [noteflight]: http://noteflight.com
+[PianoGym]: https://pianogym.com
+[Pianu]: https://pianu.com
 [playgroundsessions]: https://playgroundsessions.com
 [soundslice]: https://www.soundslice.com
 [synthesiagame]: http://synthesiagame.com

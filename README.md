@@ -132,6 +132,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## Websites
 
+- [Airsequel Sheet Music] - Sheet music management app powered by [Airsequel].
 - [ChordMark] - Simple text format for the notation of lyrics, chords and rhythm.
 - [ChordPro] - Simple text format for the notation of lyrics with chords.
 - [Clairnote] - Alternative music notation to ease reading and understanding.
@@ -164,6 +165,8 @@ A curated list of awesome tools to create, edit and display sheet music.
     French speaking site dedicated to the future of musical scores.
 
 
+[Airsequel]: https://www.airsequel.com
+[Airsequel Sheet Music]: https://github.com/Airsequel/Airsequel-Sheet-Music
 [ChordMark]: https://chordmark.netlify.app/
 [ChordPro]: https://www.chordpro.org
 [Clairnote]: https://clairnote.org

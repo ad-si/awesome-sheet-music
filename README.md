@@ -90,6 +90,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Smude] - A library dedicated to binarization and dewarping of sheet music images.
 - [verovio] - An library and toolkit for
   engraving MEI music notation into SVG.
+- [VexFlow] - TypeScript library for rendering music notation & guitar tablature.
 - [zazate.js] - Music theory and notation library
   for javascript and node.js.
 - [SeePlay] - Webapp to teach sight reading of sheet music.
@@ -118,6 +119,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [SheetAble]: https://sheetable.net
 [Smude]: https://github.com/sonovice/smude
 [verovio]: https://github.com/rism-ch/verovio
+[VexFlow]: https://github.com/vexflow/vexflow
 [zazate.js]: https://github.com/btwael/zazate.js
 
 

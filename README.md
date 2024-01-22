@@ -2,6 +2,12 @@
 
 A curated list of awesome tools to create, edit and display sheet music.
 
+> [!TIP]
+> <sup>Sponsored by:</sup> \
+> **Airsequel Sheet Music - Open source sheet music management app.** \
+> <sub>🌐 [sheet-music.airsequel.app](https://sheet-music.airsequel.app)</sub> \
+> <sub>🖥️ [github.com/Airsequel/Airsequel-Sheet-Music](https://github.com/Airsequel/Airsequel-Sheet-Music)</sub>
+
 
 ## Music Notation Software
 

@@ -8,6 +8,25 @@ A curated list of awesome tools to create, edit and display sheet music.
 > <sub>🌐 [sheet-music.airsequel.app](https://sheet-music.airsequel.app)</sub> \
 > <sub>🖥️ [github.com/Airsequel/Airsequel-Sheet-Music](https://github.com/Airsequel/Airsequel-Sheet-Music)</sub>
 
+---
+
+**Table Of Contents**
+
+<!-- toc -->
+
+- [Music Notation Software](#music-notation-software)
+- [Archives](#archives)
+- [Software Libraries](#software-libraries)
+  - [AI Powered](#ai-powered)
+- [Websites](#websites)
+- [Apps](#apps)
+- [Notations](#notations)
+- [Hardware](#hardware)
+- [Resources](#resources)
+- [OMR (Optical Music Recognition)](#omr-optical-music-recognition)
+- [Research](#research)
+
+<!-- tocstop -->
 
 ## Music Notation Software
 

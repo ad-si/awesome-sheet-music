@@ -152,9 +152,11 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 - [AnthemScore] - Automatically create sheet music from audio.
 - [Piano Transcription] - Transcribe piano recordings to MIDI files.
+- [Sheet Sage] - Transcribe pop songs to lead sheets (melody + chords).
 
 [AnthemScore]: https://www.lunaverus.com
 [Piano Transcription]: https://github.com/bytedance/piano_transcription
+[Sheet Sage]: https://github.com/chrisdonahue/sheetsage
 
 
 ## Websites

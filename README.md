@@ -184,6 +184,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [noteflight] \(commercial\) - Browser based music notation creator and
   music composition community.
 - [PianoGym] - Piano sight reading exercises and flash cards.
+- [PianoHub] - Create and share music in your browser.
 - [Pianu] - Learn how to play the piano with interactive lessons.
 - [playgroundsessions] \(commercial\) - Learn how to play the piano with
   interactive lessons featuring your favorite songs.
@@ -213,6 +214,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [Newzik]: https://newzik.com
 [noteflight]: http://noteflight.com
 [PianoGym]: https://pianogym.com
+[PianoHub]: https://www.pianohub.io
 [Pianu]: https://pianu.com
 [playgroundsessions]: https://playgroundsessions.com
 [react-piano]: https://www.kevinqi.com/react-piano/

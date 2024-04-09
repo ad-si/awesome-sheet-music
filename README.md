@@ -75,7 +75,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 [Bach digital]: https://www.bach-digital.de
 [CMME]: https://www.cmme.org
-[Digital Mozart Edition]: https://dme-webdev.mozarteum.at
+[Digital Mozart Edition]: https://dme.mozarteum.at/en/
 [CPDL]: https://www.cpdl.org
 [flutetunes.com]: http://flutetunes.com
 [IMSLP]: http://imslp.org
@@ -169,15 +169,15 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Clairnote] - Alternative music notation to ease reading and understanding.
 - [flat.io] \(commercial\) - The online music score editor for your compositions.
 - [flowkey] \(commercial\) - Interactive app to learn how to play the piano.
-- [Fretmonster] - Fingering charts app for Guitar, Ukulele, Bass, and Mandolin.
 - [Fretboard 1] - Chords, scales, and fingerings for string instruments.
 - [Fretboard 2] - Chord diagrams for Guitar.
+- [Fretmonster] - Fingering charts app for Guitar, Ukulele, Bass, and Mandolin.
 - [Guitar Dashboard] - An interactive music theory dashboard for guitarists.
 - [hacklily] - Online [LilyPond] based sheet music editor.
-- [Jellynote] \(commercial\) - Sheet music, chords, and videos website and apps.
+- [La Partition Numerique] -
+    French speaking site dedicated to the future of musical scores.
 - [lilybin] - Web-based editor and GitHub project.
-- [MoonPiano] - Free webapp to practice the Piano.
-- [my.vexflow] - Publish content with music notation, guitar tablature
+- [microharmonic] - Microtone keyboard.
   and chord diagrams without the need for special tools.
 - [Newzik] - Collaborative sheet music management app
     and reader for web, iPadOS, and macOS.
@@ -187,17 +187,15 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Pianu] - Learn how to play the piano with interactive lessons.
 - [playgroundsessions] \(commercial\) - Learn how to play the piano with
   interactive lessons featuring your favorite songs.
+- [react-piano] - Interactive piano keyboard for React.
 - [Soundslice] \(commercial\) -
     Browse and create sheet music/tab synced with audio/video performances.
 - [synthesiagame] \(commercial\) - Learn how to play the piano
   using falling notes.
 - [tunefl] - Freely generate and share mini [LilyPond] scores with ease.
-- [La Partition Numerique] -
-    French speaking site dedicated to the future of musical scores.
 
-
-[Airsequel]: https://www.airsequel.com
 [Airsequel Sheet Music]: https://github.com/Airsequel/Airsequel-Sheet-Music
+[Airsequel]: https://www.airsequel.com
 [ChordMark]: https://chordmark.netlify.app/
 [ChordPro]: https://www.chordpro.org
 [Clairnote]: https://clairnote.org
@@ -208,19 +206,19 @@ A curated list of awesome tools to create, edit and display sheet music.
 [Fretmonster]: http://playsongnotes.com/fretmonster
 [Guitar Dashboard]: https://guitardashboard.com/
 [hacklily]: https://www.hacklily.org
-[Jellynote]: https://www.jellynote.com
 [La Partition Numerique]: https://www.partitionnumerique.com
 [lilybin]: http://lilybin.com
+[microharmonic]: https://www.microharmonic.com
 [MoonPiano]: https://moonpiano.praisethemoon.org/
-[my.vexflow]: http://my.vexflow.com
 [Newzik]: https://newzik.com
 [noteflight]: http://noteflight.com
 [PianoGym]: https://pianogym.com
 [Pianu]: https://pianu.com
 [playgroundsessions]: https://playgroundsessions.com
-[soundslice]: https://www.soundslice.com
+[react-piano]: https://www.kevinqi.com/react-piano/
+[Soundslice]: https://www.soundslice.com
 [synthesiagame]: http://synthesiagame.com
-[tunefl]: https://github.com/tiredpixel/tunefl
+[tunefl]: https://github.com/tiredpixel/z.2016-01-19.tunefl
 
 
 ## Apps
@@ -246,11 +244,9 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 - [Dodeka Music Notation] - A simple yet powerful alternative music notation.
 - [Karya] - Music sequencer and generalized notation.
-- [Vnote] - Experimental isomorphic musical notation.
 
 [Dodeka Music Notation]: https://www.dodekamusic.com/learn/alternative-music-notation/
 [Karya]: https://github.com/elaforge/karya
-[Vnote]: https://fpereiro.github.io/vnote/
 
 
 ## Hardware

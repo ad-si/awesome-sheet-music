@@ -4,3 +4,8 @@ update-toc:
 		--bullets='-' \
 		-i \
 		readme.md
+
+
+.PHONY: test
+test:
+	lychee readme.md

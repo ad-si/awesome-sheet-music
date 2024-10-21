@@ -59,6 +59,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 - [Bach digital] - Platform to browse through original sources
   of J. S. Bach and his sons.
+- [Bayanguru] - Sheet music for Bayan (accordion).
 - [CMME] - Computerized mensural music editing and database of scores.
 - [CPDL] - The Choral Public Domain Library, an archive focused on
   choral and vocal music.
@@ -74,6 +75,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [openbook] - Open [LilyPond] real book for jazz musicians.
 
 [Bach digital]: https://www.bach-digital.de
+[Bayanguru]: https://bayanguru.org/
 [CMME]: https://www.cmme.org
 [Digital Mozart Edition]: https://dme.mozarteum.at/en/
 [CPDL]: https://www.cpdl.org

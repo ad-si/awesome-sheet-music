@@ -176,6 +176,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Fretmonster] - Fingering charts app for Guitar, Ukulele, Bass, and Mandolin.
 - [Guitar Dashboard] - An interactive music theory dashboard for guitarists.
 - [hacklily] - Online [LilyPond] based sheet music editor.
+- [JotChord] - Text-based online editor for making Nashville Number System style song charts as PDFs.
 - [La Partition Numerique] -
     French speaking site dedicated to the future of musical scores.
 - [lilybin] - Web-based editor and GitHub project.
@@ -209,6 +210,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [Fretmonster]: http://playsongnotes.com/fretmonster
 [Guitar Dashboard]: https://guitardashboard.com/
 [hacklily]: https://www.hacklily.org
+[JotChord]: https://www.jotchord.com
 [La Partition Numerique]: https://www.partitionnumerique.com
 [lilybin]: http://lilybin.com
 [microharmonic]: https://www.microharmonic.com

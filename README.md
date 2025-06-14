@@ -43,15 +43,15 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [sibelius] \(commercial\) - Create and share scores.
 - [Unison] \(commercial\) - Create sheet music by describing it with simple words.
 
-[capella]: http://capella.de
-[finale]: http://finalemusic.com
-[Gsharp]: https://www.common-lisp.net/project/gsharp/
-[LilyPond]: http://lilypond.org
+[capella]: https://www.capella-software.com/us/
+[finale]: https://www.finalemusic.com/
+[Gsharp]: https://gsharp.common-lisp.dev/
+[LilyPond]: https://lilypond.org
 [mei-friend]: https://mei-friend.mdw.ac.at
-[MuseScore]: http://musescore.org
-[opusmodus]: http://opusmodus.com
-[sibelius]: http://sibelius.com
-[dorico]: https://www.steinberg.net/en/products/dorico/start.html
+[MuseScore]: https://musescore.org/en
+[opusmodus]: https://opusmodus.com/
+[sibelius]: https://www.avid.com/sibelius
+[dorico]: https://www.steinberg.net/dorico/
 [Unison]: https://unisonofficial.com/html/about.html
 
 
@@ -71,7 +71,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Lilypond-Sheet-Music] - Cello music typeset with [LilyPond].
 - [MuseScore] - Share your sheet music and comment on others.
 - [mutopia] - Sheet music editions of classical music for free.
-   Repository available at [github.com mutopia].
+   Repository available on [GitHub][mutopia-gh].
 - [openbook] - Open [LilyPond] real book for jazz musicians.
 
 [Bach digital]: https://www.bach-digital.de
@@ -79,13 +79,13 @@ A curated list of awesome tools to create, edit and display sheet music.
 [CMME]: https://www.cmme.org
 [Digital Mozart Edition]: https://dme.mozarteum.at/en/
 [CPDL]: https://www.cpdl.org
-[flutetunes.com]: http://flutetunes.com
-[IMSLP]: http://imslp.org
+[flutetunes.com]: https://www.flutetunes.com/
+[IMSLP]: https://imslp.org
 [Kern Scores]: http://kern.humdrum.org/
 [Lilypond-Sheet-Music]: https://github.com/cellist/Lilypond-Sheet-Music
 [MuseScore]: http://musescore.com
-[mutopia]: http://www.mutopiaproject.org
-[github.com mutopia]: https://github.com/chrissawer/The-Mutopia-Project
+[mutopia]: https://www.mutopiaproject.org/
+[mutopia-gh]: https://github.com/MutopiaProject/MutopiaProject
 [openbook]: https://github.com/veltzer/openbook
 
 
@@ -102,6 +102,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [hmsl] - Hierarchical Music Specification Language.
   Forth tools for experimental music from the 1980's
 - [Hum] - Music notation language and synthesizer.
+- [LilyBin] - Self-hostable web-powered LilyPond editor.
 - [lilynode] - Node.js wrapper for [LilyPond].
 - [lilyware] - Node.js middleware for serving rendered [LilyPond] files.
 - [ly2video] - Generating videos from [LilyPond] projects.
@@ -125,7 +126,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [SeePlay] - Webapp to teach sight reading of sheet music.
 
 [alda]: https://github.com/alda-lang/alda
-[alphatab]: http://alphatab.net
+[alphatab]: https://alphatab.net
 [ChorData]: https://github.com/starenka/chordata
 [chord-mark]: https://github.com/no-chris/chord-mark/
 [chordpro]: https://github.com/ChordPro/chordpro
@@ -133,8 +134,9 @@ A curated list of awesome tools to create, edit and display sheet music.
 [EMViz]: https://github.com/carterenyi/emviz
 [hmsl]: https://github.com/philburk/hmsl
 [Hum]: https://github.com/crbulakites/hum
-[lilynode]: https://github.com/adius/lilynode
-[lilyware]: https://github.com/adius/lilyware
+[LilyBin]: https://github.com/LilyBin/LilyBin
+[lilynode]: https://github.com/ad-si/lilynode
+[lilyware]: https://github.com/ad-si/lilyware
 [ly2video]: https://github.com/aspiers/ly2video
 [Melo]: https://github.com/Mistodon/melo
 [mscxyz]: https://github.com/Josef-Friedrich/mscxyz
@@ -147,7 +149,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [SeePlay]: https://github.com/LearningNerd/seeplay
 [SheetAble]: https://sheetable.net
 [Smude]: https://github.com/sonovice/smude
-[verovio]: https://github.com/rism-ch/verovio
+[verovio]: https://github.com/rism-digital/verovio
 [VexFlow]: https://github.com/vexflow/vexflow
 [zazate.js]: https://github.com/btwael/zazate.js
 
@@ -173,13 +175,12 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [flowkey] \(commercial\) - Interactive app to learn how to play the piano.
 - [Fretboard 1] - Chords, scales, and fingerings for string instruments.
 - [Fretboard 2] - Chord diagrams for Guitar.
-- [Fretmonster] - Fingering charts app for Guitar, Ukulele, Bass, and Mandolin.
+- [Fret Monster] - Fingering charts app for Guitar, Ukulele, Bass, and Mandolin.
 - [Guitar Dashboard] - An interactive music theory dashboard for guitarists.
 - [hacklily] - Online [LilyPond] based sheet music editor.
 - [JotChord] - Text-based online editor for making Nashville Number System style song charts as PDFs.
 - [La Partition Numerique] -
     French speaking site dedicated to the future of musical scores.
-- [lilybin] - Web-based editor and GitHub project.
 - [microharmonic] - Microtone keyboard.
   and chord diagrams without the need for special tools.
 - [Newzik] - Collaborative sheet music management app
@@ -196,7 +197,7 @@ A curated list of awesome tools to create, edit and display sheet music.
     Browse and create sheet music/tab synced with audio/video performances.
 - [synthesiagame] \(commercial\) - Learn how to play the piano
   using falling notes.
-- [tunefl] - Freely generate and share mini [LilyPond] scores with ease.
+- [Tunefl] - Freely generate and share mini [LilyPond] scores with ease.
 
 [Airsequel Sheet Music]: https://github.com/Airsequel/Airsequel-Sheet-Music
 [Airsequel]: https://www.airsequel.com
@@ -206,32 +207,30 @@ A curated list of awesome tools to create, edit and display sheet music.
 [flat.io]: https://flat.io
 [flowkey]: https://www.flowkey.com/en
 [Fretboard 1]: https://github.com/fredericcormier/Fretboard
-[Fretboard 2]: http://davidpots.com/fretboard/
-[Fretmonster]: http://playsongnotes.com/fretmonster
+[Fretboard 2]: https://davidpots.com/fretboard/
+[Fret Monster]: https://songnotes.net/tools/fret-monster
 [Guitar Dashboard]: https://guitardashboard.com/
 [hacklily]: https://www.hacklily.org
 [JotChord]: https://www.jotchord.com
 [La Partition Numerique]: https://www.partitionnumerique.com
-[lilybin]: http://lilybin.com
 [microharmonic]: https://www.microharmonic.com
 [MoonPiano]: https://moonpiano.praisethemoon.org/
-[Newzik]: https://newzik.com
-[noteflight]: http://noteflight.com
+[Newzik]: https://newzik.com/en
+[noteflight]: https://www.noteflight.com/
 [PianoGym]: https://pianogym.com
 [PianoHub]: https://www.pianohub.io
-[Pianu]: https://pianu.com
-[playgroundsessions]: https://playgroundsessions.com
+[Pianu]: https://opensheetmusicdisplay.org/showcase-pianu-com/
+[playgroundsessions]: https://www.playgroundsessions.com/
 [react-piano]: https://www.kevinqi.com/react-piano/
 [Soundslice]: https://www.soundslice.com
-[synthesiagame]: http://synthesiagame.com
-[tunefl]: https://github.com/tiredpixel/z.2016-01-19.tunefl
+[synthesiagame]: https://synthesiagame.com
+[Tunefl]: https://github.com/tiredpixel/tunefl
 
 
 ## Apps
 
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper
     with an artist's sketchbook (iOS only).
-- [Dodeka] - App to learn how to play the piano (iPad only).
 - [Enote] - Digital sheet music app with large library (iPadOS, iOS).
 - [Nkoda] - Find, organize, and annotate sheet music.
 - [PianoBooster] - MIDI file player displaying musical notes
@@ -239,7 +238,6 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [StaffPad] -  Music composition app, designed for pen and touch.
 
 [Composer's Sketchpad]: http://composerssketchpad.com
-[Dodeka]: https://www.dodekamusic.com/products/dodeka-music-app/
 [Enote]: https://enote.com
 [Nkoda]: https://www.nkoda.com
 [PianoBooster]: https://github.com/pianobooster/PianoBooster
@@ -251,7 +249,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Dodeka Music Notation] - A simple yet powerful alternative music notation.
 - [Karya] - Music sequencer and generalized notation.
 
-[Dodeka Music Notation]: https://www.dodekamusic.com/learn/alternative-music-notation/
+[Dodeka Music Notation]: https://web.archive.org/web/20230206201446/https://dodekamusic.com/learn/alternative-music-notation/
 [Karya]: https://github.com/elaforge/karya
 
 
@@ -275,18 +273,18 @@ A curated list of awesome tools to create, edit and display sheet music.
     Community-driven, open-source effort
     to define a system for encoding musical documents.
 - [SMuFL] - Standard Music Font Layout.
-- [ViFaMusik] - Information platform for research on music and musicology.
+- [Musiconn] - Information platform for research on music and musicology.
 - [W3C Music Notation Community Group] -
     Standards group developing MusicXML, [SMuFL] and [MNX]-Common formats.
 
-[freemusiced]: http://freemusiced.org/free-sheet-music-links.html
-[llllllll.co/…]: https://llllllll.co/t/experimental-music-notation-resources
+[freemusiced]: http://www.freemusiced.org/free-sheet-music-links.html
+[llllllll.co/…]: https://llllllll.co/t/experimental-music-notation-resources/149
 [MEI]: https://music-encoding.org
 [MNX]: https://w3c.github.io/mnx/
 [online libs]:
   https://en.wikipedia.org/wiki/List_of_Online_Digital_Musical_Document_Libraries
 [SMuFL]: https://w3c.github.io/smufl/latest/index.html
-[ViFaMusik]: https://www.vifamusik.de
+[Musiconn]: https://www.musiconn.de
 [W3C Music Notation Community Group]:
   https://www.w3.org/community/music-notation/
 
@@ -314,7 +312,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Notation and Thought] - Notation design and how it affects thought.
 - [OMR Research] - Research hub for Optical Music Recognition.
 
-[ddmal]: http://ddmal.music.mcgill.ca
+[ddmal]: https://github.com/DDMAL
 [MusicScoring]: https://github.com/xwsxethan/MusicScoring
-[Notation and Thought]: https://github.com/hypotext/notation
+[Notation and Thought]: https://github.com/kai-qu/notation
 [OMR Research]: https://github.com/OMR-Research

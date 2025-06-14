@@ -8,4 +8,11 @@ update-toc:
 
 .PHONY: test
 test:
-	lychee readme.md
+	lychee \
+		--max-redirects 0 \
+		--require-https \
+		--timeout 5 \
+		--exclude avid.com/sibelius \
+		--exclude gamera.informatik.hsnr.de \
+		--exclude newzik.com \
+		readme.md

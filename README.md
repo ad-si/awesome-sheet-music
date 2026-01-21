@@ -232,7 +232,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper
     with an artist's sketchbook (iOS only).
 - [Enote] - Digital sheet music app with large library (iPadOS, iOS).
-- [Fender Notion] - Music notation app focused on mobility for tablets.
+- [Fender Notion] - Cross-platform music composition tool.
 - [Nkoda] - Find, organize, and annotate sheet music.
 - [PianoBooster] - MIDI file player displaying musical notes
     and teaching how to play the piano.

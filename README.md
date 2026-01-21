@@ -37,6 +37,7 @@ A curated list of awesome tools to create, edit and display sheet music.
   engraver-quality sheet music.
 - [Gsharp] - Interactive extensible score editor.
 - [LilyPond] - Program and file format for music engraving.
+- [MagicScore] \(commercial\) - Music notation software for composing and editing sheet music.
 - [mei-friend] - Browser-based editor for music encodings.
 - [MuseScore] - Create, play and print sheet music.
 - [opusmodus] \(commercial\) - Software for music composition.
@@ -47,6 +48,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [finale]: https://www.finalemusic.com/
 [Gsharp]: https://gsharp.common-lisp.dev/
 [LilyPond]: https://lilypond.org
+[MagicScore]: https://www.musicaleditor.com/
 [mei-friend]: https://mei-friend.mdw.ac.at
 [MuseScore]: https://musescore.org/en
 [opusmodus]: https://opusmodus.com/

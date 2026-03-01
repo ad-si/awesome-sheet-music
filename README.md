@@ -226,6 +226,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [noteflight]: https://www.noteflight.com/
 [PianoGym]: https://pianogym.com
 [PianoHub]: https://www.pianohub.io
+[PianoML]: https://pianoml.org
 [Pianu]: https://opensheetmusicdisplay.org/showcase-pianu-com/
 [playgroundsessions]: https://www.playgroundsessions.com/
 [react-piano]: https://www.kevinqi.com/react-piano/

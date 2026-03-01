@@ -193,6 +193,7 @@ A curated list of awesome tools to create, edit and display sheet music.
   music composition community.
 - [PianoGym] - Piano sight reading exercises and flash cards.
 - [PianoHub] - Create and share music in your browser.
+- [PianoML] - A Machine to Learn Piano.
 - [Pianu] - Learn how to play the piano with interactive lessons.
 - [playgroundsessions] \(commercial\) - Learn how to play the piano with
   interactive lessons featuring your favorite songs.

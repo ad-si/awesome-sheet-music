@@ -175,6 +175,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [ChordMark] - Simple text format for the notation of lyrics, chords and rhythm.
 - [ChordPro] - Simple text format for the notation of lyrics with chords.
 - [Clairnote] - Alternative music notation to ease reading and understanding.
+- [DomiSol] - Web-based score editor for tonic solfa (d r m f s l t) and jianpu (1 2 3 4 5 6 7) notation.
 - [flat.io] \(commercial\) - The online music score editor for your compositions.
 - [flowkey] \(commercial\) - Interactive app to learn how to play the piano.
 - [Fretboard 1] - Chords, scales, and fingerings for string instruments.
@@ -212,6 +213,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [ChordMark]: https://chordmark.netlify.app/
 [ChordPro]: https://www.chordpro.org
 [Clairnote]: https://clairnote.org
+[DomiSol]: https://domisol.app
 [flat.io]: https://flat.io
 [flowkey]: https://www.flowkey.com/en
 [Fretboard 1]: https://github.com/fredericcormier/Fretboard

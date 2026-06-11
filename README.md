@@ -308,11 +308,14 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Gamera] - Toolkit for building document image recognition systems.
 - [PlayScore] – Sheet Music Scanning App (iOS, Android, Windows).
 - [Rodan] - Web-based document recognition system.
+- [Scan2Notes] \(commercial\) - AI powered web app to scan sheet music
+    and convert it to editable, playable scores (PDF, MIDI, MusicXML).
 
 [Audiveris]: https://github.com/Audiveris/audiveris
 [Gamera]: https://gamera.informatik.hsnr.de/
 [PlayScore]: https://www.playscore.co
 [Rodan]: https://github.com/DDMAL/Rodan
+[Scan2Notes]: https://klang.io/scan2notes/
 
 
 ## Research

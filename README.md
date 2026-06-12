@@ -93,6 +93,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## Software Libraries
 
+- [abcjs] - JavaScript library for rendering and playing back
+    ABC music notation in the browser.
 - [alda] - Music programming language for musicians.
 - [alphatab] - Cross platform music notation and
   guitar tablature rendering library.
@@ -127,6 +129,7 @@ A curated list of awesome tools to create, edit and display sheet music.
   for javascript and node.js.
 - [SeePlay] - Webapp to teach sight reading of sheet music.
 
+[abcjs]: https://github.com/paulrosen/abcjs
 [alda]: https://github.com/alda-lang/alda
 [alphatab]: https://alphatab.net
 [ChorData]: https://github.com/starenka/chordata

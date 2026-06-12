@@ -115,8 +115,6 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Music Sheet Viewer] - Wordpress plugin to embed
     sheet music with shortcode tags.
 - [music21] - Toolkit for computational musicology.
-- [musical.js] - A sequencing WebAudio synthesizer
-    that supports ABC notation.
 - [openLilyLib] - Enhancement library for [LilyPond].
 - [OpenSheetMusicDisplay] - TypeScript library for rendering MusicXML in the browser.
 - [ScoreAnalyzer] - Analyze piano sheet music for technical difficulties.
@@ -147,7 +145,6 @@ A curated list of awesome tools to create, edit and display sheet music.
 [mscxyz]: https://github.com/Josef-Friedrich/mscxyz
 [Music Sheet Viewer]: https://wordpress.org/plugins/music-sheet-viewer/
 [music21]: https://github.com/cuthbertLab/music21
-[musical.js]: https://github.com/PencilCode/musical.js
 [openLilyLib]: https://openlilylib.org
 [OpenSheetMusicDisplay]: https://github.com/opensheetmusicdisplay/opensheetmusicdisplay
 [ScoreAnalyzer]: https://github.com/Vassantha/ScoreAnalyzer

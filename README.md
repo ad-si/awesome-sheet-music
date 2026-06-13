@@ -260,10 +260,16 @@ A curated list of awesome tools to create, edit and display sheet music.
 ## Notations
 
 - [Dodeka Music Notation] - A simple yet powerful alternative music notation.
+- [Integer Pitch Class Notation] - System that names the twelve pitch classes
+    with the integers 0 through 11.
 - [Karya] - Music sequencer and generalized notation.
+- [Numbered Musical Notation] - Cipher notation system that uses the digits
+    1 through 7 to represent the notes of the scale (also known as Jianpu).
 
 [Dodeka Music Notation]: https://web.archive.org/web/20230206201446/https://dodekamusic.com/learn/alternative-music-notation/
+[Integer Pitch Class Notation]: https://en.wikipedia.org/wiki/Pitch_class#Integer_notation
 [Karya]: https://github.com/elaforge/karya
+[Numbered Musical Notation]: https://en.wikipedia.org/wiki/Numbered_musical_notation
 
 
 ## Hardware

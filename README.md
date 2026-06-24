@@ -101,6 +101,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [ChorData] - Dummy chordbook for mandolin, ukulele and guitar.
 - [chord-mark] - Reference implementation of the [ChordMark] notation.
 - [chordpro] - Reference implementation of the [ChordPro] standard.
+- [conchord] - Typst package to write lyrics with chords,
+  generate chord diagrams and draw tabs.
 - [Digital Music Stand] - A simple browser-based viewer to display and search music sheets.
 - [EMViz] - Visualize melodic patterns in MIDI files with arc diagrams.
 - [hmsl] - Hierarchical Music Specification Language.
@@ -118,6 +120,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [openLilyLib] - Enhancement library for [LilyPond].
 - [OpenSheetMusicDisplay] - TypeScript library for rendering MusicXML in the browser.
 - [ScoreAnalyzer] - Analyze piano sheet music for technical difficulties.
+- [scoryst] - Typst package to render music notation
+  (ABC, MusicXML, MEI, Humdrum, …) via [verovio].
 - [SheetAble] - Self-hostable server for organizing sheet music.
 - [Smude] - A library dedicated to binarization and dewarping of sheet music images.
 - [verovio] - An library and toolkit for
@@ -133,6 +137,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [ChorData]: https://github.com/starenka/chordata
 [chord-mark]: https://github.com/no-chris/chord-mark/
 [chordpro]: https://github.com/ChordPro/chordpro
+[conchord]: https://typst.app/universe/package/conchord
 [Digital Music Stand]: https://github.com/PatWie/digitalmusicstand
 [EMViz]: https://github.com/carterenyi/emviz
 [hmsl]: https://github.com/philburk/hmsl
@@ -148,6 +153,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [openLilyLib]: https://openlilylib.org
 [OpenSheetMusicDisplay]: https://github.com/opensheetmusicdisplay/opensheetmusicdisplay
 [ScoreAnalyzer]: https://github.com/Vassantha/ScoreAnalyzer
+[scoryst]: https://typst.app/universe/package/scoryst
 [SeePlay]: https://github.com/LearningNerd/seeplay
 [SheetAble]: https://sheetable.net
 [Smude]: https://github.com/sonovice/smude

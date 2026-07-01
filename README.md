@@ -298,12 +298,13 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [List of Online Digital Musical Document Libraries][online libs] -
     Wikipedia list of online archives.
 - [llllllll.co/…] - Discussion about experimental music notation resources.
-- [MNX] - XML based next generation music markup proposal.
 - [MEI] - Music Encoding Initiative.
     Community-driven, open-source effort
     to define a system for encoding musical documents.
-- [SMuFL] - Standard Music Font Layout.
+- [MNX] - XML based next generation music markup proposal.
 - [Musiconn] - Information platform for research on music and musicology.
+- [Notation Must Die] - Video essay on the battle for how we read music.
+- [SMuFL] - Standard Music Font Layout.
 - [W3C Music Notation Community Group] -
     Standards group developing MusicXML, [SMuFL] and [MNX]-Common formats.
 
@@ -311,10 +312,11 @@ A curated list of awesome tools to create, edit and display sheet music.
 [llllllll.co/…]: https://llllllll.co/t/experimental-music-notation-resources/149
 [MEI]: https://music-encoding.org
 [MNX]: https://w3c.github.io/mnx/
+[Musiconn]: https://www.musiconn.de
+[Notation Must Die]: https://www.youtube.com/watch?v=Eq3bUFgEcb4
 [online libs]:
   https://en.wikipedia.org/wiki/List_of_Online_Digital_Musical_Document_Libraries
 [SMuFL]: https://w3c.github.io/smufl/latest/index.html
-[Musiconn]: https://www.musiconn.de
 [W3C Music Notation Community Group]:
   https://www.w3.org/community/music-notation/
 

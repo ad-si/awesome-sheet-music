@@ -74,6 +74,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [MuseScore] - Share your sheet music and comment on others.
 - [mutopia] - Sheet music editions of classical music for free.
    Repository available on [GitHub][mutopia-gh].
+- [NinSheetMusic] - Community archive of free video game sheet music.
 - [openbook] - Open [LilyPond] real book for jazz musicians.
 
 [Bach digital]: https://www.bach-digital.de
@@ -88,6 +89,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [MuseScore]: http://musescore.com
 [mutopia]: https://www.mutopiaproject.org/
 [mutopia-gh]: https://github.com/MutopiaProject/MutopiaProject
+[NinSheetMusic]: https://www.ninsheetmusic.org
 [openbook]: https://github.com/veltzer/openbook
 
 

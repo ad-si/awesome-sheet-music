@@ -101,6 +101,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [ChorData] - Dummy chordbook for mandolin, ukulele and guitar.
 - [chord-mark] - Reference implementation of the [ChordMark] notation.
 - [chordpro] - Reference implementation of the [ChordPro] standard.
+- [ChordSketch] - Rust implementation of the [ChordPro] format with
+  parser, renderers (text, HTML, PDF, SVG), CLI, and iReal Pro support.
 - [conchord] - Typst package to write lyrics with chords,
   generate chord diagrams and draw tabs.
 - [Digital Music Stand] - A simple browser-based viewer to display and search music sheets.
@@ -137,6 +139,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [ChorData]: https://github.com/starenka/chordata
 [chord-mark]: https://github.com/no-chris/chord-mark/
 [chordpro]: https://github.com/ChordPro/chordpro
+[ChordSketch]: https://github.com/koedame/chordsketch
 [conchord]: https://typst.app/universe/package/conchord
 [Digital Music Stand]: https://github.com/PatWie/digitalmusicstand
 [EMViz]: https://github.com/carterenyi/emviz

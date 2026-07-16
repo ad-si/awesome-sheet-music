@@ -100,6 +100,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [alda] - Music programming language for musicians.
 - [alphatab] - Cross platform music notation and
   guitar tablature rendering library.
+- [astro-lilypond] - An [Astro] integration for displaying [LilyPond] scores via Markdown.
 - [ChorData] - Dummy chordbook for mandolin, ukulele and guitar.
 - [chord-mark] - Reference implementation of the [ChordMark] notation.
 - [chordpro] - Reference implementation of the [ChordPro] standard.
@@ -138,6 +139,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 [abcjs]: https://github.com/paulrosen/abcjs
 [alda]: https://github.com/alda-lang/alda
 [alphatab]: https://alphatab.net
+[Astro]: https://astro.build
+[astro-lilypond]: https://lilypond.ky.fyi
 [ChorData]: https://github.com/starenka/chordata
 [chord-mark]: https://github.com/no-chris/chord-mark/
 [chordpro]: https://github.com/ChordPro/chordpro

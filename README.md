@@ -41,6 +41,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [mei-friend] - Browser-based editor for music encodings.
 - [MuseScore] - Create, play and print sheet music.
 - [opusmodus] \(commercial\) - Software for music composition.
+- [ScoreTail] - Browser-based notation editor with real-time collaboration.
 - [sibelius] \(commercial\) - Create and share scores.
 - [Unison] \(commercial\) - Create sheet music by describing it with simple words.
 
@@ -52,6 +53,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [mei-friend]: https://mei-friend.mdw.ac.at
 [MuseScore]: https://musescore.org/en
 [opusmodus]: https://opusmodus.com/
+[ScoreTail]: https://scoretail.com
 [sibelius]: https://www.avid.com/sibelius
 [dorico]: https://www.steinberg.net/dorico/
 [Unison]: https://unisonofficial.com/html/about.html

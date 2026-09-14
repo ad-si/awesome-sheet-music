@@ -199,6 +199,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [MandoScribe] \(commercial\) - Create slash chords + tabs sheet music in browser for Mandolin.
 - [microharmonic] - Microtone keyboard.
   and chord diagrams without the need for special tools.
+- [My Chord Finder] - Interactive guitar/piano chord finder and scales
 - [Newzik] - Collaborative sheet music management app
     and reader for web, iPadOS, and macOS.
 - [noteflight] \(commercial\) - Browser based music notation creator and
@@ -235,6 +236,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [MandoScribe]: https://www.mandoscribe.com/
 [microharmonic]: https://www.microharmonic.com
 [MoonPiano]: https://moonpiano.praisethemoon.org/
+[My Chord Finder]: https://mychordfinder.com/
 [Newzik]: https://newzik.com/en
 [noteflight]: https://www.noteflight.com/
 [PianoGym]: https://pianogym.com

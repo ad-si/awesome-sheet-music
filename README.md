@@ -190,6 +190,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [flowkey] \(commercial\) - Interactive app to learn how to play the piano.
 - [Fretboard 1] - Chords, scales, and fingerings for string instruments.
 - [Fretboard 2] - Chord diagrams for Guitar.
+- [Fretline] \(commercial\) - Chord and scale diagrams for guitar,
+    ukulele and bass with notes, intervals and audio playback.
 - [Fret Monster] - Fingering charts app for Guitar, Ukulele, Bass, and Mandolin.
 - [Guitar Dashboard] - An interactive music theory dashboard for guitarists.
 - [hacklily] - Online [LilyPond] based sheet music editor.
@@ -227,6 +229,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [flowkey]: https://www.flowkey.com/en
 [Fretboard 1]: https://github.com/fredericcormier/Fretboard
 [Fretboard 2]: https://davidpots.com/fretboard/
+[Fretline]: https://www.fretline.app
 [Fret Monster]: https://songnotes.net/tools/fret-monster
 [Guitar Dashboard]: https://guitardashboard.com/
 [hacklily]: https://www.hacklily.org

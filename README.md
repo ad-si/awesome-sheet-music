@@ -36,6 +36,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [finale] \(commercial\) - Compose, arrange, notate and print
   engraver-quality sheet music.
 - [Gsharp] - Interactive extensible score editor.
+- [Lilypalooza] - Desktop LilyPond DAW and IDE.
 - [LilyPond] - Program and file format for music engraving.
 - [MagicScore] \(commercial\) - Music notation software for composing and editing sheet music.
 - [mei-friend] - Browser-based editor for music encodings.
@@ -47,6 +48,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [capella]: https://www.capella-software.com/us/
 [finale]: https://www.finalemusic.com/
 [Gsharp]: https://gsharp.common-lisp.dev/
+[Lilypalooza]: https://github.com/ales-tsurko/lilypalooza
 [LilyPond]: https://lilypond.org
 [MagicScore]: https://www.musicaleditor.com/
 [mei-friend]: https://mei-friend.mdw.ac.at

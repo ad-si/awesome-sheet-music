@@ -212,6 +212,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [react-piano] - Interactive piano keyboard for React.
 - [Soundslice] \(commercial\) -
     Browse and create sheet music/tab synced with audio/video performances.
+- [Strumfolio] \(commercial\) - Songbook and chord chart reader
+  for ChordPro files, installable as a web app.
 - [synthesiagame] \(commercial\) - Learn how to play the piano
   using falling notes.
 - [TimeWarp Technologies] - Interactive software for performing musicians,
@@ -244,6 +246,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [playgroundsessions]: https://www.playgroundsessions.com/
 [react-piano]: https://www.kevinqi.com/react-piano/
 [Soundslice]: https://www.soundslice.com
+[Strumfolio]: https://strumfolio.com
 [synthesiagame]: https://synthesiagame.com
 [TimeWarp Technologies]: https://timewarptech.com
 [Tunefl]: https://github.com/tiredpixel/tunefl

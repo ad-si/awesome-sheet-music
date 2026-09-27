@@ -214,7 +214,7 @@ A curated list of awesome tools to create, edit and display sheet music.
     Browse and create sheet music/tab synced with audio/video performances.
 - [synthesiagame] \(commercial\) - Learn how to play the piano
   using falling notes.
-  - [The Ultimate Piano] \(commercial\) - Piano practice in the browser
+- [The Ultimate Piano] \(commercial\) - Piano practice in the browser
   with MIDI keyboard support: MusicXML scores with a following cursor and
   wait mode, PDF sheet music, MIDI files, chord and scale training.
 - [TimeWarp Technologies] - Interactive software for performing musicians,

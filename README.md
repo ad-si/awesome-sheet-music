@@ -183,6 +183,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 ## Websites
 
 - [Airsequel Sheet Music] - Sheet music management app powered by [Airsequel].
+- [CapoChart] - Transpose PDF and scanned chord charts in place without retyping.
 - [ChordMark] - Simple text format for the notation of lyrics, chords and rhythm.
 - [ChordPro] - Simple text format for the notation of lyrics with chords.
 - [Clairnote] - Alternative music notation to ease reading and understanding.
@@ -220,6 +221,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 [Airsequel Sheet Music]: https://github.com/Airsequel/Airsequel-Sheet-Music
 [Airsequel]: https://www.airsequel.com
+[CapoChart]: https://capochart.com
 [ChordMark]: https://chordmark.netlify.app/
 [ChordPro]: https://www.chordpro.org
 [Clairnote]: https://clairnote.org

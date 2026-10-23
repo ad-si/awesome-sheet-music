@@ -259,6 +259,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [PianoBooster] - MIDI file player displaying musical notes
     and teaching how to play the piano.
 - [StaffPad] -  Music composition app, designed for pen and touch.
+- [StageMate] (commercial) - PDF/image sheet music reader with annotations,
+  setlists, and blink/head gesture page turns (iPhone, iPad, Android).
 
 [Composer's Sketchpad]: http://composerssketchpad.com
 [Enote]: https://enote.com
@@ -266,6 +268,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [Nkoda]: https://www.nkoda.com
 [PianoBooster]: https://github.com/pianobooster/PianoBooster
 [StaffPad]: https://www.staffpad.net
+[StageMate]: https://stagemate.site/en
 
 
 ## Notations

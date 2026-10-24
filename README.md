@@ -258,6 +258,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Nkoda] - Find, organize, and annotate sheet music.
 - [PianoBooster] - MIDI file player displaying musical notes
     and teaching how to play the piano.
+- [SheetScroll] \(commercial\) - Sheet music reader that turns the page
+    by listening (web, Android, macOS, Windows, Linux).
 - [StaffPad] -  Music composition app, designed for pen and touch.
 
 [Composer's Sketchpad]: http://composerssketchpad.com
@@ -265,6 +267,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [Fender Notion]: https://intl.fender.com/pages/fender-notion
 [Nkoda]: https://www.nkoda.com
 [PianoBooster]: https://github.com/pianobooster/PianoBooster
+[SheetScroll]: https://sheetscroll.com
 [StaffPad]: https://www.staffpad.net
 
 

@@ -260,7 +260,7 @@ A curated list of awesome tools to create, edit and display sheet music.
     and teaching how to play the piano.
 - [StaffPad] -  Music composition app, designed for pen and touch.
 - [StageMate] (commercial) - PDF/image sheet music reader with annotations,
-  setlists, and blink/head gesture page turns (iPhone, iPad, Android).
+    setlists, and blink/head gesture page turns (iPhone, iPad, Android).
 
 [Composer's Sketchpad]: http://composerssketchpad.com
 [Enote]: https://enote.com

@@ -261,6 +261,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [SheetScroll] \(commercial\) - Sheet music reader that turns the page
     by listening (web, Android, macOS, Windows, Linux).
 - [StaffPad] -  Music composition app, designed for pen and touch.
+- [StageMate] (commercial) - PDF/image sheet music reader with annotations,
+    setlists, and blink/head gesture page turns (iPhone, iPad, Android).
 
 [Composer's Sketchpad]: http://composerssketchpad.com
 [Enote]: https://enote.com
@@ -269,6 +271,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [PianoBooster]: https://github.com/pianobooster/PianoBooster
 [SheetScroll]: https://sheetscroll.com
 [StaffPad]: https://www.staffpad.net
+[StageMate]: https://stagemate.site/en
 
 
 ## Notations

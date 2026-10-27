@@ -251,6 +251,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## Apps
 
+- [Andromr] - Optical music recognition (Android only)
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper
     with an artist's sketchbook (iOS only).
 - [Enote] - Digital sheet music app with large library (iPadOS, iOS).
@@ -264,6 +265,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [StageMate] (commercial) - PDF/image sheet music reader with annotations,
     setlists, and blink/head gesture page turns (iPhone, iPad, Android).
 
+[Andromr]: https://github.com/aicelen/Andromr
 [Composer's Sketchpad]: http://composerssketchpad.com
 [Enote]: https://enote.com
 [Fender Notion]: https://intl.fender.com/pages/fender-notion

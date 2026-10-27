@@ -194,6 +194,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Guitar Dashboard] - An interactive music theory dashboard for guitarists.
 - [hacklily] - Online [LilyPond] based sheet music editor.
 - [JotChord] - Text-based online editor for making Nashville Number System style song charts as PDFs.
+- [Klaviero] \(commercial\) - Browser piano game for MIDI keyboards
+  with falling notes and sheet music for 4,296 classical charts.
 - [La Partition Numerique] -
     French speaking site dedicated to the future of musical scores.
 - [MandoScribe] \(commercial\) - Create slash chords + tabs sheet music in browser for Mandolin.
@@ -231,6 +233,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [Guitar Dashboard]: https://guitardashboard.com/
 [hacklily]: https://www.hacklily.org
 [JotChord]: https://www.jotchord.com
+[Klaviero]: https://klaviero.com
 [La Partition Numerique]: https://www.partitionnumerique.com
 [MandoScribe]: https://www.mandoscribe.com/
 [microharmonic]: https://www.microharmonic.com

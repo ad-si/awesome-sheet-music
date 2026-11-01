@@ -217,6 +217,8 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [TimeWarp Technologies] - Interactive software for performing musicians,
   music educators, students, and music hobbyists.
 - [Tunefl] - Freely generate and share mini [LilyPond] scores with ease.
+- [TuneViva] - Score playback, scanning and practice.
+
 
 [Airsequel Sheet Music]: https://github.com/Airsequel/Airsequel-Sheet-Music
 [Airsequel]: https://www.airsequel.com
@@ -247,7 +249,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [synthesiagame]: https://synthesiagame.com
 [TimeWarp Technologies]: https://timewarptech.com
 [Tunefl]: https://github.com/tiredpixel/tunefl
-
+[Tuneviva]: https://tuneviva.com
 
 ## Apps
 

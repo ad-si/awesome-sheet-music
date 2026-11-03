@@ -332,6 +332,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Audiveris] - Optical music recognition app for scanned scores.
 - [Gamera] - Toolkit for building document image recognition systems.
 - [PlayScore] – Sheet Music Scanning App (iOS, Android, Windows).
+- [PureMIDI] \(commercial\) - Browser PDF score to MIDI converter.
 - [Rodan] - Web-based document recognition system.
 - [Scan2Notes] \(commercial\) - AI powered web app to scan sheet music
     and convert it to editable, playable scores (PDF, MIDI, MusicXML).
@@ -339,6 +340,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [Audiveris]: https://github.com/Audiveris/audiveris
 [Gamera]: https://gamera.informatik.hsnr.de/
 [PlayScore]: https://www.playscore.co
+[PureMIDI]: https://puremidi.com/pdf-to-midi-converter
 [Rodan]: https://github.com/DDMAL/Rodan
 [Scan2Notes]: https://klang.io/scan2notes/
 

@@ -272,6 +272,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [SheetScroll]: https://sheetscroll.com
 [StaffPad]: https://www.staffpad.net
 [StageMate]: https://stagemate.site/en
+- [FM-1 Emulator](https://fm1-emulator.atst.tools/) - Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
 
 
 ## Notations

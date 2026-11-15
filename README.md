@@ -313,6 +313,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [SMuFL] - Standard Music Font Layout.
 - [W3C Music Notation Community Group] -
     Standards group developing MusicXML, [SMuFL] and [MNX]-Common formats.
+- [No Stairs Please](https://nostairsplease.com/mcp) - Live-music venue directory and MCP server for touring musicians, solo acts, and talent buyers.
 
 [freemusiced]: http://www.freemusiced.org/free-sheet-music-links.html
 [llllllll.co/…]: https://llllllll.co/t/experimental-music-notation-resources/149

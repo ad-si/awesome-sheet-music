@@ -269,6 +269,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 [Fender Notion]: https://intl.fender.com/pages/fender-notion
 [Nkoda]: https://www.nkoda.com
 [PianoBooster]: https://github.com/pianobooster/PianoBooster
+[Podium](https://studiop5.org) - PDF sheet music reader for the browser
 [SheetScroll]: https://sheetscroll.com
 [StaffPad]: https://www.staffpad.net
 [StageMate]: https://stagemate.site/en

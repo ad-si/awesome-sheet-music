@@ -335,7 +335,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 - [Rodan] - Web-based document recognition system.
 - [Scan2Notes] \(commercial\) - AI powered web app to scan sheet music
     and convert it to editable, playable scores (PDF, MIDI, MusicXML).
-- [Sheetlytic] \(free\) - Turn photos of sheet music into playable, editable MusicXML (iOS, Android, Windows).
+- [Sheetlytic] - Turn photos of sheet music into playable, editable MusicXML (iOS, Android, Windows).
 
 [Audiveris]: https://github.com/Audiveris/audiveris
 [Gamera]: https://gamera.informatik.hsnr.de/

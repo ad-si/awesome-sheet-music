@@ -182,6 +182,7 @@ A curated list of awesome tools to create, edit and display sheet music.
 
 ## Websites
 
+- [AIAC Chord & Key Finder] - Browser-local 84-template chord progression and Krumhansl-Schmuckler musical key detector (zero uploads).
 - [Airsequel Sheet Music] - Sheet music management app powered by [Airsequel].
 - [ChordMark] - Simple text format for the notation of lyrics, chords and rhythm.
 - [ChordPro] - Simple text format for the notation of lyrics with chords.
@@ -218,6 +219,7 @@ A curated list of awesome tools to create, edit and display sheet music.
   music educators, students, and music hobbyists.
 - [Tunefl] - Freely generate and share mini [LilyPond] scores with ease.
 
+[AIAC Chord & Key Finder]: https://aiac.app/chord-finder/
 [Airsequel Sheet Music]: https://github.com/Airsequel/Airsequel-Sheet-Music
 [Airsequel]: https://www.airsequel.com
 [ChordMark]: https://chordmark.netlify.app/
